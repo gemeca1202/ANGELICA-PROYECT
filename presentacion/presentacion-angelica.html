@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Plan Angélica García</title>
+<link href="fonts/fonts.css" rel="stylesheet">
+<style>
+:root{
+  --guinda:#7B1E3A; --rojo:#D2323C; --hueso:#F5EFE6; --carbon:#222; --rosa:#E8A5B5; --salvia:#8FAF9A;
+  --gris:#6b6b6b; --linea:#e4dccf;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+@page{size:1080px 1350px;margin:0}
+body{font-family:Inter,Arial,sans-serif;color:var(--carbon);background:#ccc}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:var(--hueso);
+   padding:90px 84px 110px;page-break-after:always;display:flex;flex-direction:column}
+.s.dark{background:var(--guinda);color:var(--hueso)}
+.num{position:absolute;bottom:44px;right:84px;font:600 24px Inter;color:var(--gris)}
+.dark .num{color:var(--rosa)}
+.brand{position:absolute;bottom:44px;left:84px;font:700 22px Montserrat;letter-spacing:.04em;color:var(--guinda)}
+.dark .brand{color:var(--rosa)}
+.kicker{font:700 26px Montserrat;letter-spacing:.14em;text-transform:uppercase;color:var(--rojo);margin-bottom:22px}
+.dark .kicker{color:var(--rosa)}
+h1{font:800 88px/1.02 Montserrat;letter-spacing:-.01em}
+h2{font:800 66px/1.06 Montserrat;letter-spacing:-.01em;margin-bottom:40px}
+h3{font:700 36px/1.15 Montserrat;margin-bottom:10px}
+p,li{font-size:33px;line-height:1.38}
+.lead{font-size:38px;line-height:1.35;color:#444}
+.dark .lead{color:var(--hueso)}
+.hl{color:var(--rojo)}
+.dark .hl{color:var(--rosa)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+.card{background:#fff;border-radius:28px;padding:34px 34px;border:2px solid var(--linea)}
+.card p{font-size:29px;line-height:1.35;color:#333}
+.card h3{font-size:34px}
+.ico{font-size:56px;line-height:1;margin-bottom:14px}
+.list{list-style:none;display:flex;flex-direction:column;gap:22px}
+.list li{display:flex;gap:22px;align-items:flex-start;background:#fff;border-radius:24px;padding:26px 30px;border:2px solid var(--linea)}
+.list li .b{flex:0 0 60px;height:60px;border-radius:50%;background:var(--guinda);color:#fff;font:800 30px Montserrat;display:flex;align-items:center;justify-content:center}
+.list li div{font-size:30px;line-height:1.35}
+.list li strong{font-family:Montserrat;font-weight:700}
+.tag{display:inline-block;font:700 22px Montserrat;padding:8px 16px;border-radius:999px;color:#fff;margin-bottom:12px;letter-spacing:.03em}
+.t-ok{background:#2e7d4f}.t-cut{background:#b7791f}.t-split{background:var(--guinda)}.t-arch{background:#777}
+.stat{font:800 120px/1 Montserrat;color:var(--rojo)}
+.row{display:flex;gap:26px}
+.pill{display:inline-block;background:var(--guinda);color:#fff;font:700 28px Montserrat;padding:14px 26px;border-radius:999px;margin:0 12px 14px 0}
+.pill.alt{background:#fff;color:var(--guinda);border:3px solid var(--guinda)}
+.foot{margin-top:auto;font-size:26px;color:var(--gris);line-height:1.35}
+.dark .foot{color:var(--rosa)}
+.ladder{display:flex;flex-direction:column;gap:18px}
+.step{display:flex;align-items:center;gap:24px;background:#fff;border-radius:22px;padding:22px 28px;border:2px solid var(--linea)}
+.step .n{flex:0 0 72px;height:72px;border-radius:18px;background:var(--rosa);color:var(--guinda);font:800 34px Montserrat;display:flex;align-items:center;justify-content:center}
+.step div{font-size:30px;line-height:1.3}
+.step b{font-family:Montserrat}
+.arrow{text-align:center;font-size:34px;color:var(--rojo);line-height:.6}
+.q{background:#fff;border-radius:26px;padding:28px 32px;border-left:14px solid var(--rojo);margin-bottom:22px}
+.q h3{font-size:34px;margin-bottom:8px}
+.q p{font-size:28px;line-height:1.35;color:#444}
+.big-quote{font:800 76px/1.1 Montserrat;margin:30px 0}
+.small{font-size:26px;color:var(--gris)}
+.tl{display:flex;flex-direction:column;gap:0;border-left:6px solid var(--rosa);margin-left:20px}
+.tl .it{position:relative;padding:0 0 34px 46px}
+.tl .it:before{content:"";position:absolute;left:-19px;top:6px;width:32px;height:32px;border-radius:50%;background:var(--guinda);border:6px solid var(--hueso)}
+.tl .it h3{font-size:34px;color:var(--guinda)}
+.tl .it p{font-size:29px;color:#333}
+.compact .card{padding:20px 26px!important;border-radius:22px}
+.compact .card h3{font-size:28px;margin-bottom:4px}
+.compact .card p{font-size:24px;line-height:1.28}
+.compact .tag{font-size:19px;padding:6px 14px;margin-bottom:8px}
+.ladder .step{padding:16px 26px}
+.ladder .step .n{flex-basis:62px;height:62px}
+.arrow{font-size:28px}
+</style>
+</head>
+<body>
+
+<!-- 1 PORTADA -->
+<section class="s dark">
+  <div style="margin-top:150px">
+    <div class="kicker">Análisis y plan · Septiembre 2026</div>
+    <h1>Angélica García<br><span class="hl">Fisioterapeuta</span></h1>
+    <p class="lead" style="margin-top:50px;font-size:44px">Lo que vimos en tus videos,<br>el plan para lanzarte<br>y 8 preguntas para arrancar.</p>
+  </div>
+  <div class="foot" style="font-size:30px">⏱️ Lectura: 5 minutos<br>📌 Todo es una <b>propuesta</b>: tú decides.</div>
+</section>
+
+<!-- 2 QUÉ REVISAMOS -->
+<section class="s">
+  <div class="kicker">1 · El análisis</div>
+  <h2>Revisamos tus 8 videos a detalle</h2>
+  <div class="row" style="margin-bottom:40px">
+    <div class="card" style="flex:1;text-align:center"><div class="stat">8</div><p>videos</p></div>
+    <div class="card" style="flex:1;text-align:center"><div class="stat">13½</div><p>minutos de material</p></div>
+    <div class="card" style="flex:1;text-align:center"><div class="stat">100%</div><p>escuchado y transcrito</p></div>
+  </div>
+  <p class="lead">Vimos imagen, medimos el audio y escuchamos <b>todo lo que dices</b>.</p>
+  <p class="lead" style="margin-top:24px">Encontramos <span class="hl"><b>dos estilos</b></span> que se complementan:</p>
+  <div class="grid2" style="margin-top:26px">
+    <div class="card"><div class="ico">🦴</div><h3>Con el traje</h3><p>Cercana, en casa, a cámara. Ideal para que te <b>descubran</b>.</p></div>
+    <div class="card"><div class="ico">🩺</div><h3>En consultorio</h3><p>Especialista, con modelos 3D. Ideal para generar <b>confianza</b>.</p></div>
+  </div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">2</div>
+</section>
+
+<!-- 3 FORTALEZAS -->
+<section class="s">
+  <div class="kicker">1 · El análisis</div>
+  <h2>Tus fortalezas 💪</h2>
+  <div class="grid2">
+    <div class="card"><div class="ico">🗣️</div><h3>Explicas increíble</h3><p>"El piso pélvico es una <b>hamaca</b>", "la tapadera de la pelvis"… Se entiende a la primera.</p></div>
+    <div class="card"><div class="ico">🦴</div><h3>El traje de músculos</h3><p>Nadie más lo tiene. Detiene a la gente en el feed y <b>muestra</b> lo que explicas.</p></div>
+    <div class="card"><div class="ico">👶</div><h3>Enseñas con objetos</h3><p>Muñeco, esqueleto, banquito: <b>muestras</b> en vez de solo decir.</p></div>
+    <div class="card"><div class="ico">💛</div><h3>Tranquilizas</h3><p>No asustas. Explicas, das calma y dices qué hacer. Eso genera <b>confianza</b>.</p></div>
+  </div>
+  <div class="card" style="margin-top:26px;background:var(--guinda);border:none"><p style="color:#fff;font-size:30px">✨ Además, siempre sigues un orden claro: <b>qué pasa → por qué → qué hacer</b>.</p></div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">3</div>
+</section>
+
+<!-- 4 A CORREGIR -->
+<section class="s">
+  <div class="kicker">1 · El análisis</div>
+  <h2>Lo que hay que ajustar<br><span class="small" style="font:600 30px Inter;color:var(--gris)">Casi todo es de edición, no de ti</span></h2>
+  <ul class="list">
+    <li><span class="b">1</span><div><strong>Audio bajo.</strong> Se oye poco, sobre todo un video del consultorio. Se rescata en edición.</div></li>
+    <li><span class="b">2</span><div><strong>La frase fuerte llega tarde.</strong> Empiezas con "Hola, soy…". La pondremos en el segundo 0.</div></li>
+    <li><span class="b">3</span><div><strong>Oferta de "domingos de mayo".</strong> Ya venció: la quitamos de los 4 videos del consultorio.</div></li>
+    <li><span class="b">4</span><div><strong>Un video de 4 minutos.</strong> El de la muñeca: lo dividimos en dos.</div></li>
+    <li><span class="b">5</span><div><strong>Algunas frases por matizar.</strong> Ej. "se recupera a cualquier edad" o "microrupturas". Te proponemos cómo decirlo y <b>tú lo apruebas</b>.</div></li>
+  </ul>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">4</div>
+</section>
+
+<!-- 5 CADA VIDEO -->
+<section class="s">
+  <div class="kicker">1 · El análisis</div>
+  <h2 style="margin-bottom:30px">¿Qué hacemos con cada video?</h2>
+  <div class="grid2 compact" style="gap:16px">
+    <div class="card" style="padding:26px 30px"><span class="tag t-arch">GUARDAR</span><h3>V1 · Presentación</h3><p>Toma incompleta, repite al V2.</p></div>
+    <div class="card" style="padding:26px 30px"><span class="tag t-cut">SOLO SI TÚ QUIERES</span><h3>V2 · "Mi bebé nace mañana"</h3><p>Se publica con la fecha real, en pasado.</p></div>
+    <div class="card" style="padding:26px 30px"><span class="tag t-split">DIVIDIR EN 2</span><h3>V3 · Muñeca al cargar</h3><p>"Por qué duele" + "3 ajustes".</p></div>
+    <div class="card" style="padding:26px 30px"><span class="tag t-ok">PUBLICAR</span><h3>V4 · Estreñimiento</h3><p>El truco del banquito. Muy fuerte.</p></div>
+    <div class="card" style="padding:26px 30px"><span class="tag t-cut">RECORTAR</span><h3>V5 · ¿Qué es el piso pélvico?</h3><p>Rescatar audio. Inicio de "Tu hamaca".</p></div>
+    <div class="card" style="padding:26px 30px"><span class="tag t-cut">RECORTAR</span><h3>V6 · Vida sexual</h3><p>Enfocado solo en ese tema.</p></div>
+    <div class="card" style="padding:26px 30px"><span class="tag t-cut">RECORTAR</span><h3>V7 · "Vejiga caída"</h3><p>Ajustar la frase de la edad.</p></div>
+    <div class="card" style="padding:26px 30px"><span class="tag t-ok">PUBLICAR</span><h3>V8 · Abdomen postparto</h3><p>Y grabamos el de <b>faja y abdominales</b> que prometiste.</p></div>
+  </div>
+  <p class="foot" style="margin-top:18px;font-size:24px">Resultado: <b>8 piezas listas</b> + 1 video largo para YouTube con los del consultorio.</p>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">5</div>
+</section>
+
+<!-- 6 MARCA -->
+<section class="s dark">
+  <div class="kicker">2 · El plan</div>
+  <h2 style="color:var(--hueso)">Tu marca: amplia, no de nicho</h2>
+  <p class="lead">No serás "la fisio de embarazo". Serás la fisioterapeuta que:</p>
+  <div class="big-quote">Te explica tu cuerpo<br>para que te <span class="hl">muevas mejor.</span></div>
+  <div style="background:rgba(255,255,255,.1);border-radius:26px;padding:34px 36px;margin-top:10px">
+    <p style="font-size:30px;margin-bottom:12px">👤 Nombre: <b>Angélica García · Fisioterapeuta</b></p>
+    <p style="font-size:30px;margin-bottom:12px">🔗 Usuario sugerido: <b>@angelicagarcia.fisio</b> <span style="font-size:24px;opacity:.8">(por confirmar)</span></p>
+    <p style="font-size:30px">✨ Lema: <b>Entiende tu cuerpo. Muévete mejor.</b></p>
+  </div>
+  <p class="foot">Embarazo y piso pélvico son el inicio, no el límite. Así podrás hablar de cualquier tema de fisioterapia sin cambiar de cuenta.</p>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">6</div>
+</section>
+
+<!-- 7 PILARES Y SERIES -->
+<section class="s">
+  <div class="kicker">2 · El plan</div>
+  <h2>5 temas y tus series</h2>
+  <ul class="list" style="gap:16px">
+    <li style="padding:20px 28px"><span class="b" style="background:var(--rojo)">1</span><div><strong>Entiende tu cuerpo</strong> · músculos, dolor, respiración<br><span class="small">Serie: "Ahora entiendo"</span></div></li>
+    <li style="padding:20px 28px"><span class="b" style="background:var(--rojo)">2</span><div><strong>Tu día a día sin dolor</strong> · cuello, espalda, rodilla, postura<br><span class="small">Serie: "¿Por qué me duele aquí?"</span></div></li>
+    <li style="padding:20px 28px"><span class="b" style="background:var(--rojo)">3</span><div><strong>Etapas de la mujer</strong> · embarazo, postparto, menopausia<br><span class="small">Series: "Tu hamaca" y "¿Por qué me duele aquí? Embarazo"</span></div></li>
+    <li style="padding:20px 28px"><span class="b" style="background:var(--rojo)">4</span><div><strong>Quien cuida también se cuida</strong> · mamás, papás y abuelas<br><span class="small">Serie: "Cargar sin dolor"</span></div></li>
+    <li style="padding:20px 28px"><span class="b" style="background:var(--rojo)">5</span><div><strong>Mitos y tus preguntas</strong><br><span class="small">Series: "Mito o realidad" y "Pregúntale a Angélica"</span></div></li>
+  </ul>
+  <p class="foot">✅ Incluimos lo que pediste: <b>bebés</b> (para quienes los cuidan), <b>abuelas</b> y <b>perimenopausia / menopausia</b>. Y tu idea <b>"¿Por qué me duele aquí?"</b> es una de las series principales.</p>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">7</div>
+</section>
+
+<!-- 8 PLATAFORMAS -->
+<section class="s">
+  <div class="kicker">2 · El plan</div>
+  <h2>¿Dónde publicamos?</h2>
+  <div class="card" style="background:var(--guinda);border:none;margin-bottom:22px"><h3 style="color:#fff">📸 Instagram · la principal</h3><p style="color:var(--hueso)">Reels, carruseles, historias y directos. Se publica en <b>Facebook</b> automáticamente.</p></div>
+  <div class="grid2" style="gap:20px">
+    <div class="card"><h3>🎵 TikTok</h3><p>El mismo video, para que te descubra gente nueva.</p></div>
+    <div class="card"><h3>▶️ YouTube Shorts</h3><p>El mismo video; la gente lo encuentra buscando.</p></div>
+    <div class="card"><h3>🎬 YouTube largo</h3><p>1 video cada 2 semanas, desde la semana 3.</p></div>
+    <div class="card"><h3>💬 WhatsApp Business</h3><p>Donde te escriben para citas y talleres.</p></div>
+  </div>
+  <p class="foot">🔒 Las cuentas son <b>tuyas</b>. Nosotros trabajamos con permisos, <b>nunca con tus contraseñas</b>.</p>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">8</div>
+</section>
+
+<!-- 9 EL PRIMER MES -->
+<section class="s">
+  <div class="kicker">2 · El plan</div>
+  <h2>Tu primer mes, en números</h2>
+  <div class="grid2" style="gap:22px">
+    <div class="card" style="text-align:center"><div class="stat">30</div><p>videos cortos<br>(1 al día)</p></div>
+    <div class="card" style="text-align:center"><div class="stat">9</div><p>carruseles<br>para guardar</p></div>
+    <div class="card" style="text-align:center"><div class="stat">4</div><p>encuentros en vivo<br>gratis</p></div>
+    <div class="card" style="text-align:center"><div class="stat">2</div><p>videos largos<br>en YouTube</p></div>
+  </div>
+  <div class="card" style="margin-top:24px"><p>📅 Todo va en un calendario día por día, con <b>varios temas desde la primera semana</b>: muñeca, estreñimiento, abuelas, cuello de celular, menopausia…</p></div>
+  <p class="foot">Todos los guiones ya están escritos. Antes de publicar, tú revisas y das el visto bueno.</p>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">9</div>
+</section>
+
+<!-- 10 LO QUE TE TOCA -->
+<section class="s">
+  <div class="kicker">2 · El plan</div>
+  <h2>¿Qué te toca a ti?</h2>
+  <ul class="list">
+    <li><span class="b">📱</span><div><strong>20–30 min al día</strong> · Un encargo sencillo: un clip con el celular, una nota de voz o fotos. Te decimos qué decir.</div></li>
+    <li><span class="b">🎥</span><div><strong>4 horas cada 2 semanas</strong> · Una sesión de grabación con cámara profesional; ahí sale material para ~10 días.</div></li>
+    <li><span class="b">✅</span><div><strong>2 horas a la semana</strong> · Revisar y aprobar los videos y que la información sea correcta.</div></li>
+    <li><span class="b">🔴</span><div><strong>30 min a la semana</strong> · Un directo con tu comunidad.</div></li>
+  </ul>
+  <div class="card" style="margin-top:24px;background:var(--guinda);border:none"><p style="color:#fff">🙌 <b>El equipo hace el resto:</b> edición, diseño, subtítulos, publicar, responder mensajes básicos y medir resultados.</p></div>
+  <p class="foot">¿Un día sin tiempo? Mándanos una nota de voz de 1 minuto, o nada: siempre hay videos de reserva.</p>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">10</div>
+</section>
+
+<!-- 11 INGRESOS -->
+<section class="s">
+  <div class="kicker">2 · El plan</div>
+  <h2>¿Cómo se generan ingresos?</h2>
+  <div class="ladder">
+    <div class="step"><span class="n">1</span><div><b>Videos gratis</b> · la gente te conoce y confía</div></div>
+    <div class="arrow">▼</div>
+    <div class="step"><span class="n">2</span><div><b>Directos gratis</b> · medimos quién quiere más</div></div>
+    <div class="arrow">▼</div>
+    <div class="step"><span class="n">3</span><div><b>Taller en línea pagado</b> · grupo pequeño, 55 min</div></div>
+    <div class="arrow">▼</div>
+    <div class="step"><span class="n">4</span><div><b>Se repite y mejora</b> · si funciona</div></div>
+    <div class="arrow">▼</div>
+    <div class="step"><span class="n">5</span><div><b>Curso de varias sesiones</b> · solo si hay demanda</div></div>
+  </div>
+  <div class="card" style="margin-top:24px;border-left:14px solid var(--rojo)"><p>🩺 Y en todo momento: <b>tus valoraciones y consultas</b>, para quien necesita atención personal.</p></div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">11</div>
+</section>
+
+<!-- 12 PRIMER TALLER -->
+<section class="s dark">
+  <div class="kicker">2 · El plan</div>
+  <h2 style="color:var(--hueso)">Tu primer taller (propuesta)</h2>
+  <div class="big-quote" style="font-size:80px;margin:0 0 30px">"Cuidar sin<br><span class="hl">lastimarte</span>"</div>
+  <p class="lead" style="margin-bottom:30px">Para mamás, papás y <b>abuelas</b> que cargan bebés: cómo cargar, levantar y alimentar sin dolor de muñeca, espalda u hombros.</p>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px">
+    <div style="background:rgba(255,255,255,.1);border-radius:22px;padding:24px 28px"><p style="font-size:28px">⏱️ <b>55 min</b> en vivo por Google Meet</p></div>
+    <div style="background:rgba(255,255,255,.1);border-radius:22px;padding:24px 28px"><p style="font-size:28px">👥 <b>8 a 20</b> personas</p></div>
+    <div style="background:rgba(255,255,255,.1);border-radius:22px;padding:24px 28px"><p style="font-size:28px">💵 Idea de precio: <b>$290</b> ó <b>$490</b> pase familiar</p></div>
+    <div style="background:rgba(255,255,255,.1);border-radius:22px;padding:24px 28px"><p style="font-size:28px">📅 Alrededor de la <b>semana 6</b></p></div>
+  </div>
+  <p class="foot">Solo se abre si en los directos gratis hay suficiente interés. Si no se juntan 8 personas, se devuelve el dinero. Precio y fecha: <b>tú decides</b>.</p>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">12</div>
+</section>
+
+<!-- 13 CUIDADO CLINICO + COSTO -->
+<section class="s">
+  <div class="kicker">2 · El plan</div>
+  <h2>Dos compromisos</h2>
+  <div class="card" style="margin-bottom:26px">
+    <div class="ico">🔬</div><h3>Información siempre correcta</h3>
+    <p>Preparamos una lista de <b>21 frases</b> para que las revises con fuentes (por ejemplo, la relaxina no causa el dolor por sí sola). <b>Nada se publica sin tu visto bueno.</b> Tampoco mostramos pacientes, a tu bebé ni a tu familia si no lo decides.</p>
+  </div>
+  <div class="card">
+    <div class="ico">🪙</div><h3>Arrancamos con $0 de gasto nuevo</h3>
+    <p>Usamos lo que ya existe: cámara Sony, micrófonos, computadoras, programas y apps gratuitas. Sin anuncios pagados. Cualquier compra futura sería <b>opcional</b> y se paga solo con lo que se gane.</p>
+  </div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">13</div>
+</section>
+
+<!-- 14 TIMELINE -->
+<section class="s">
+  <div class="kicker">2 · El plan</div>
+  <h2>Los próximos 90 días</h2>
+  <div class="tl">
+    <div class="it"><h3>Semana 0 · Preparación</h3><p>Me respondes las 8 preguntas, abrimos cuentas, 1.ª sesión de grabación y editamos tus videos.</p></div>
+    <div class="it"><h3>Días 1–7 · Lanzamiento</h3><p>Tus 3 videos de presentación y los primeros temas.</p></div>
+    <div class="it"><h3>Días 8–30 · Ritmo diario</h3><p>1 video al día, 4 directos gratis y 2 videos de YouTube.</p></div>
+    <div class="it"><h3>Días 31–60 · Primer taller</h3><p>Preventa y taller "Cuidar sin lastimarte".</p></div>
+    <div class="it"><h3>Días 61–90 · Crecer</h3><p>Repetir lo que funcionó y, quizá, un taller de menopausia.</p></div>
+  </div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">14</div>
+</section>
+
+<!-- 15 PREGUNTAS 1-4 -->
+<section class="s">
+  <div class="kicker">3 · Tu turno</div>
+  <h2>8 preguntas para arrancar <span class="small" style="font:600 28px Inter">(1–4)</span></h2>
+  <div class="q"><h3>1 · ¿Dónde y cómo atiendes?</h3><p>Ciudad, presencial o en línea. ¿Qué servicios das hoy y a qué precio? ¿Hay alguna promoción vigente?</p></div>
+  <div class="q"><h3>2 · Tu formación</h3><p>Estudios, cédula y especialidades. ¿Qué quieres decir con "ayuda para bebés" (edades, necesidades)? ¿Qué temas <b>no</b> quieres tocar?</p></div>
+  <div class="q"><h3>3 · Tus cuentas</h3><p>¿Qué redes tienes ya (Instagram, Facebook, TikTok, YouTube, WhatsApp Business), con qué usuario? ¿Tienes Gmail?</p></div>
+  <div class="q"><h3>4 · Tu vida personal</h3><p>¿Ya nació tu bebé? ¿Podemos contar que grabaste un día antes del parto? ¿Quieres mostrar a tu bebé o familia? ¿Te gusta decir "mami"?</p></div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">15</div>
+</section>
+
+<!-- 16 PREGUNTAS 5-8 -->
+<section class="s">
+  <div class="kicker">3 · Tu turno</div>
+  <h2>8 preguntas para arrancar <span class="small" style="font:600 28px Inter">(5–8)</span></h2>
+  <div class="q"><h3>5 · Tu tiempo</h3><p>¿Cuántos minutos al día puedes grabar? ¿Cuántas horas a la semana para revisar? ¿Cada cuánto y dónde una sesión de 4 h?</p></div>
+  <div class="q"><h3>6 · Equipo técnico</h3><p>¿Tienes tripié, luces o cables? ¿Qué modelo es el micrófono MXL y la interfaz M-Track?</p></div>
+  <div class="q"><h3>7 · Tus metas</h3><p>¿Cuánto te gustaría ganar extra al mes en 3 y 6 meses? ¿Cuántas consultas nuevas puedes atender por semana? ¿Cómo cobras? ¿Facturas?</p></div>
+  <div class="q"><h3>8 · Talleres y colaboraciones</h3><p>¿Talleres para público general? ¿De qué app son los modelos 3D de la TV y se pueden usar en redes? ¿Conoces a alguna nutrióloga o colega para colaborar?</p></div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">16</div>
+</section>
+
+<!-- 17 CIERRE -->
+<section class="s dark">
+  <div style="margin-top:180px">
+    <div class="kicker">Siguiente paso</div>
+    <h1 style="font-size:84px">Respóndeme<br><span class="hl">por audio</span> 🎙️</h1>
+    <p class="lead" style="margin-top:44px;font-size:40px">No tiene que ser perfecto. Con tus respuestas ajustamos el plan y empezamos la preparación.</p>
+    <p class="lead" style="margin-top:34px;font-size:40px">Si algo no te late, dímelo: <b>todo se puede cambiar.</b></p>
+  </div>
+  <div class="foot" style="font-size:34px;color:var(--hueso)"><b>Entiende tu cuerpo. Muévete mejor.</b> 💛</div>
+</section>
+
+</body>
+</html>
