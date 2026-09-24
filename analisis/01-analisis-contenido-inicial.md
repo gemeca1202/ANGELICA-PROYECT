@@ -1,123 +1,138 @@
-# Análisis de contenido inicial: Angélica
+# Análisis de contenido inicial: Angélica García
 
-**Fecha:** 24/09/2026
-**Material analizado:** 8 videos grabados el 23/09/2026 (WhatsApp)
+**Fecha:** 24/09/2026 · **Versión 2:** incluye la transcripción completa del audio
+**Material analizado:** 8 videos (13.5 min de material crudo) · Transcripciones en [`transcripciones/`](transcripciones/)
 **Enfoque:** revisión de un desarrollador de contenido senior antes de planear, editar y publicar
 
-> **Cómo se hizo el análisis:** se revisaron fotogramas repartidos a lo largo de cada video (12 por video, más los primeros 3 segundos en detalle) y se midió el audio de cada uno: volumen en LUFS, rango dinámico y pausas. **No se pudo transcribir lo que dice Angélica** porque el entorno no permite descargar el modelo de voz. Por eso los temas de cada video se deducen de la imagen, y el guion hablado todavía no se evalúa.
+> **Método:** se revisaron fotogramas de cada video (12 por video, más los primeros 3 segundos en detalle), se midió el audio (volumen en LUFS, rango dinámico y pausas) y se transcribió todo con Whisper, un modelo de reconocimiento de voz, corrigiendo los términos técnicos a mano. Los errores de transcripción que se corrigieron quedan anotados en cada archivo.
 
 ---
 
 ## 1. Resumen ejecutivo
 
-Angélica ya tiene lo más difícil de conseguir: **autoridad real (fisioterapia de piso pélvico y abdomen) combinada con un personaje visual que nadie más tiene (el traje de músculos)**. Con esas dos cosas se construye una marca que se reconoce en menos de un segundo al pasar el dedo por el feed.
+Angélica tiene tres activos que muy pocas creadoras de salud reúnen:
 
-El material se divide en **dos formatos claramente distintos**, y los dos sirven:
+1. **Autoridad real:** es fisioterapeuta de piso pélvico, abdomen y postura, y habla como quien atiende pacientes, no como quien repite lo que leyó.
+2. **Un personaje visual único:** el traje de anatomía muscular.
+3. **Una historia personal fuerte:** grabó los videos del traje **embarazada, a horas de dar a luz** ("mi bebé nace mañana"). Es la fisio que explica el embarazo desde dentro de su propio embarazo.
 
-| Formato | Videos | Qué es | Para qué sirve |
-|---|---|---|---|
-| **A. "La del traje"** (vertical, selfie, energía alta) | V1–V4 | Angélica con traje de anatomía muscular, a cámara, con apoyos (muñeco bebé, esqueleto, banco) | **Alcance y descubrimiento**: Reels, TikTok, Shorts |
-| **B. "La especialista"** (horizontal, sentada, pantalla con anatomía 3D) | V5–V8 | Explicación calmada frente a una TV con modelos 3D de piso pélvico y recto abdominal | **Confianza y conversión**: YouTube, carrusel de clips, contenido para pacientes |
+Además, **explica muy bien**. Usa metáforas que cualquiera entiende ("el suelo pélvico es una **hamaca**", "la **tapadera** de la pelvis", "el **chipotito** del codo") y siempre sigue la misma estructura: síntoma → por qué pasa → qué hacer.
 
-**Veredicto:** el contenido tiene potencial alto. Lo que falla es **técnico y de edición** (audio bajo, duración, ganchos), no de fondo. Se corrige en postproducción y con pequeños ajustes al grabar.
+**Lo que hay que corregir es de edición, no de fondo:**
+- Los videos tardan 5 a 10 segundos en llegar al gancho porque empiezan con "Hola, mi nombre es…".
+- El audio está bajo en todos.
+- El V3 dura 4 minutos.
+- **Los videos V5–V8 cierran con una oferta vencida** ("valoración gratis los domingos de **mayo**"). Hay que cortarla o reemplazarla antes de publicar.
 
 ---
 
-## 2. Inventario de videos
+## 2. Qué es cada video en realidad
 
-| # | Archivo | Duración | Formato | Escena / tema que se deduce de la imagen | Volumen |
-|---|---|---|---|---|---|
-| V1 | 8.22.20 PM | 0:59 | Vertical selfie | Traje muscular, a cámara, con un objeto en la mano (¿palito/regla?) que usa para señalar el tórax/abdomen | −28 LUFS |
-| V2 | 8.22.23 PM | 1:35 | Vertical selfie | Traje muscular, se toca el abdomen y la cadera: probablemente abdomen, diástasis o postura | −29 LUFS |
-| V3 | 8.22.30 PM | **4:07** | Vertical selfie | Carga un **muñeco bebé** y luego un **esqueleto**: posturas al cargar al bebé, postparto, pelvis | −28 LUFS |
-| V4 | 8.22.32 PM | 1:34 | Vertical, cámara baja | Sentada en banco con **pies elevados sobre un escalón** + esqueleto: postura para evacuar (tipo "squatty potty") | −31 LUFS |
-| V5 | 8.30.25 PM | 1:19 | Horizontal, plano fijo | Pantalla: pelvis ósea 3D → músculos del piso pélvico | **−36 LUFS** ⚠️ |
-| V6 | 8.30.29 PM | 1:30 | Horizontal, plano fijo | Pantalla: corte sagital "Normal Pelvic Floor" (vejiga, útero, recto) | −18 LUFS |
-| V7 | 8.30.32 PM | 1:09 | Horizontal, plano fijo | Mismo corte sagital: probablemente disfunción o comparación | −21 LUFS |
-| V8 | 8.30.36 PM | 1:27 | Horizontal, plano fijo | Pantalla: **recto abdominal** en 3D → fibras musculares → piso pélvico | −20 LUFS |
+La transcripción corrigió varias suposiciones que hice solo con la imagen: el V2 es una presentación, no un video de diástasis; el V1 es una toma incompleta; el V4 es sobre estreñimiento.
 
-**Total:** unos 13.5 minutos de material crudo.
+| # | Duración | Formato | Tema real | Estado |
+|---|---|---|---|---|
+| V1 | 0:59 | Traje, vertical | Presentación (**1.ª toma**, se corta a media frase en 0:58) | ❌ **Descartar**. Es una toma repetida del V2 |
+| V2 | 1:35 | Traje, vertical | **Presentación y declaración de intenciones**: "estoy embarazada, mi bebé nace mañana; vi los miedos de las mamás en grupos de maternidad y quiero darte la tranquilidad de entender tu cuerpo" | ✅ Video de presentación de la cuenta |
+| V3 | **4:07** | Traje, vertical, con muñeco bebé y esqueleto | **Dolor de muñeca y túnel del carpo al cargar al bebé**: por qué pasa (tensión, miedo a que se caiga, muñeca chueca) y qué hacer (relajar el antebrazo, fortalecer la espalda y la escápula, alinear la muñeca) | ✅ Dividir en 2 |
+| V4 | 1:34 | Traje, vertical, banco y esqueleto | **Estreñimiento en el embarazo** (por la progesterona) + tip del **banquito en el baño** para relajar el piso pélvico y pujar menos | ✅ Muy fuerte |
+| V5 | 1:19 | Consultorio, horizontal, 3D | **¿Qué es el suelo pélvico?** La metáfora de la hamaca. Si falla: escapes de orina y lumbalgias al trapear, barrer o lavar | ⚠️ Audio muy bajo + oferta de mayo |
+| V6 | 1:30 | Consultorio, horizontal, 3D | Hamaca débil → órganos que bajan → vejiga "más chiquita" + **disfunción sexual y orgasmo** | ⚠️ Oferta de mayo; tema sensible para las plataformas |
+| V7 | 1:09 | Consultorio, horizontal, 3D | **"Vejiga caída" no es normal** y se recupera a cualquier edad | ⚠️ Oferta de mayo; repite gran parte del V6 |
+| V8 | 1:27 | Consultorio, horizontal, 3D | **¿Por qué cuesta recuperar la figura después del bebé?** Línea alba, microrupturas, abdomen distendido. Anuncia un video sobre **fajas y abdominales** | ⚠️ Oferta de mayo; el video anunciado no existe todavía |
+
+**Hay dos series:**
+- **Serie "Mami" (V1–V4):** tono íntimo, le habla a "mami", sin nombre de marca ni oferta. Grabada de urgencia antes del parto.
+- **Serie "Cápsulas" (V5–V8):** tono clínico y cálido, "Hola, yo soy Angélica García", cada una termina con la valoración gratis. Son cápsulas encadenadas ("¿te acuerdas en la cápsula anterior…?").
 
 ---
 
 ## 3. Puntos fuertes
 
-### 3.1 Un personaje visual memorable (el traje de músculos) ⭐ el activo principal
-- Es **anatomía que se puede llevar puesta**: explica sin necesidad de gráficos. Cuando se toca el abdomen o las costillas, el traje enseña el músculo del que habla.
-- Rompe el patrón del feed. En salud, casi todo es bata blanca o fondo liso; esto hace que la gente se detenga.
-- Tiene **potencial de marca registrada**: "la fisio del traje de músculos" puede ser la identidad del canal. Debe convertirse en su uniforme para el formato corto.
+### 3.1 Una historia que nadie más puede contar ⭐⭐⭐
+- "Soy fisioterapeuta, estoy embarazada y **mi bebé nace mañana**. Grabé esto rápido porque quería dejarte esta tranquilidad." Es un **gancho emocional muy potente** y además es verdad.
+- Da una continuación natural: **la fisio que ahora vive su propio postparto** (diástasis, muñeca, piso pélvico, lactancia). Si Angélica se siente cómoda compartiéndolo, esa historia sostiene meses de contenido y mucha conexión con su público.
+- Su motivación es clara y creíble: **vio el miedo de otras mamás en grupos de maternidad** ("me duele aquí, ¿le hará daño a mi bebé?") y quiere responder. Ese es el propósito de la marca, escrito por ella misma.
 
-### 3.2 Expresividad facial y energía a cámara
-- Mira directo al lente y exagera las expresiones (ojos abiertos, cejas, "¿¡en serio!?"). Es justo el lenguaje que funciona en Reels y TikTok.
-- Se mueve, se acerca y se aleja de la cámara (V1, V4). Ese dinamismo natural ahorra cortes en edición.
-- Transmite **cercanía**: no parece una clase, parece una amiga que sabe mucho.
+### 3.2 Explica con metáforas y lenguaje de mamá, no de libro
+- **"El suelo pélvico es una hamaca"**: es la mejor idea de la serie. Se entiende en un segundo, se recuerda y se puede dibujar. Debería ser el **concepto de marca** (por ejemplo, "Tu hamaca", "#CuidaTuHamaca").
+- "La tapadera de la pelvis", "el chipotito del codo, no el huesito, al lado", "chuequitas, jorobadas y tensas: la combinación perfecta para el dolor". Suena a amiga que sabe, no a clase de anatomía.
+- **Nombra los tabúes sin rodeos:** "se escapa la pipí", "vejiga caída", "orgasmo más difícil", "pujar para hacer popó". Justo lo que la gente busca en privado y comparte en mensajes directos.
 
-### 3.3 Uso de apoyos físicos (props) para enseñar
-- **Muñeco bebé** (V3): muestra una situación real de mamás (cargar al bebé) y conecta de inmediato con el público postparto.
-- **Esqueleto** (V3, V4): hace tangible la pelvis y la postura.
-- **Banco con escalón** (V4): demuestra una postura en vez de solo describirla.
-- Esto es **"mostrar, no contar"**, el principio que más retención da en contenido educativo.
+### 3.3 Estructura didáctica sólida en todos los videos
+Siempre sigue **síntoma → por qué pasa (anatomía) → qué hacer → tranquilidad**. El mejor ejemplo es el V3: dolor de muñeca → músculos del antebrazo tensos por el miedo a que el bebé se caiga → túnel del carpo comprimido (se duerme la mano, pierdes fuerza, no puedes abrir una botella) → relajar el antebrazo, fortalecer la espalda y alinear la muñeca. Con esa estructura el contenido se guarda.
 
-### 3.4 Autoridad y credibilidad (formato B)
-- El montaje con **TV y modelos anatómicos 3D** (V5–V8) se ve profesional y posiciona a Angélica como especialista, no como influencer genérica.
-- La ropa de trabajo (filipina guinda) refuerza el rol clínico.
-- Señala la pantalla con naturalidad y hace pausas didácticas. Se nota que sabe explicar.
+### 3.4 Tranquiliza en vez de asustar
+Muchos creadores de salud crecen con miedo ("¡esto te está dañando!"). Angélica hace lo contrario: "no es algo que esté dañando a tu bebé", "el cuerpo está diseñado para esto", "se pueden recuperar sin importar la edad que tengas". Genera **confianza y lealtad**, y es seguro para las plataformas.
 
-### 3.5 Nicho con mucha demanda y poca oferta de calidad en español
-- Piso pélvico, diástasis, postparto, incontinencia, estreñimiento y postura son **temas de búsqueda constante** y, a la vez, tabú. La gente busca en privado lo que no pregunta en voz alta.
-- El público (mujeres embarazadas, mamás, mujeres de 30 a 55 años) **guarda y comparte** mucho este contenido, que son las métricas que más pesan en el algoritmo.
-- El nicho se puede **monetizar de forma directa**: consultas, programas en línea, talleres, marcas de productos para mamá o bebé.
+### 3.5 El traje de músculos
+Es anatomía que se puede llevar puesta: cuando señala el antebrazo o el abdomen, se ve el músculo del que habla. Hace que la gente se detenga en el feed y se reconoce al instante. Debe ser su uniforme para el formato corto.
 
-### 3.6 Coherencia temática
-- Los 8 videos giran alrededor de un mismo eje (**core: abdomen + pelvis + postura**). Eso deja claro al algoritmo y a la audiencia de qué trata la cuenta.
+### 3.6 Enseña con objetos
+Carga el **muñeco bebé** para mostrar la muñeca chueca, usa el **esqueleto** para la pelvis y la escápula y el **banquito** para la postura en el baño. Mostrar en lugar de solo contar hace que la gente siga viendo.
 
-### 3.7 Locación limpia y con buena luz natural
-- Fondo claro, cortinas blancas y luz de ventana suave y favorecedora (V1–V4). El consultorio de V5–V8 también está ordenado y no distrae.
+### 3.7 Credibilidad en el consultorio (V5–V8)
+La TV con modelos 3D (pelvis, "Normal Pelvic Floor", recto abdominal), la filipina y el espacio clínico ordenado la posicionan como especialista. Las cápsulas encadenadas ("¿te acuerdas…?") ya son una **serie**, algo que las plataformas premian.
+
+### 3.8 Nicho con demanda alta, tabú y monetizable
+Embarazo, postparto, diástasis, incontinencia, prolapso, sexualidad, estreñimiento y dolor por cargar al bebé. Se busca mucho, casi nadie lo pregunta en voz alta, se guarda y se comparte, y **se convierte en consultas**, como ya intentan las cápsulas con la valoración gratis.
 
 ---
 
 ## 4. Áreas de mejora (en orden de prioridad)
 
-### 🔴 Prioridad 1: Audio
-- **Todos los videos están bajos.** La referencia para redes es de unos **−14 LUFS**. El material va de −18 a −36 LUFS.
-- **V5 (−36 LUFS)** está muy bajo: casi no se escucha en el celular. Se debe normalizar y, si hace falta, reducir ruido.
-- En V5–V8 la cámara está lejos y el audio suena "de cuarto", con eco.
-- **Solución al grabar:** un micrófono de solapa inalámbrico (tipo DJI Mic, Rode Wireless o Hollyland Lark). Es la **mejor inversión** posible para este proyecto.
-- **Solución en edición:** normalizar a −14 LUFS, compresor suave, reducir ruido y aplicar un ecualizador para la voz.
+### 🔴 1. Oferta vencida en V5–V8
+Los cuatro cierran con "te puedo regalar la valoración los días **domingos del mes de mayo**". Publicados hoy, confunden y restan credibilidad. **Opciones:**
+- Cortar la oferta y cerrar con un texto en pantalla nuevo: "Agenda tu valoración · link en bio".
+- Si la valoración gratis sigue vigente, grabar un cierre genérico de 5 segundos ("Te regalo tu valoración, escríbeme") y usarlo en los cuatro.
+- 📌 **Falta definir con Angélica:** ¿cuál es la oferta actual (precio, días, modalidad en línea o presencial, ciudad)?
 
-### 🔴 Prioridad 2: Duración y ritmo
-- V3 dura **4 minutos** y está en vertical. En Reels o TikTok la retención cae mucho después de 60 a 90 segundos. **V3 debe dividirse en 2 o 3 piezas** (por ejemplo, "Cómo cargar al bebé sin lastimarte" y "Qué pasa en tu pelvis cuando…").
-- Los videos de 1:30 funcionan mejor recortados a **30–60 segundos**: quitar respiraciones, arranques en falso y repeticiones.
-- En edición se aplica corte en salto (*jump cut*) cada 2 a 4 segundos para mantener el ritmo.
+### 🔴 2. Ganchos enterrados
+Casi todos pierden los primeros 5 a 10 segundos en saludar. **El mejor gancho de cada video ya existe; solo hay que moverlo al inicio:**
 
-### 🟠 Prioridad 3: Ganchos (primeros 3 segundos)
-- En casi todos los videos, los primeros segundos son **Angélica acomodándose o empezando a hablar** (V1 arranca con la cámara acomodándose; V5–V8 arrancan con ella sentada y quieta).
-- El gancho debe ir **en el segundo 0** y en **texto en pantalla**, porque cerca del 80 % ve sin sonido. Ejemplos:
-  - "Si te orinas al estornudar, esto no es normal (aunque te digan que sí)"
-  - "Estás cargando mal a tu bebé y tu espalda lo sabe"
-  - "La forma en que vas al baño está dañando tu piso pélvico"
-- En edición se puede sacar el momento más fuerte del video y ponerlo al inicio como avance.
+| Video | Hoy empieza con | Gancho propuesto (voz o texto en pantalla, segundo 0) | Dónde está en el crudo |
+|---|---|---|---|
+| V2 | "Hola mami, mi nombre es…" | **"Mi bebé nace mañana y grabé esto para ti"** | 7–16 s |
+| V3-A | "Ahora te quiero explicar otro achaque…" | **"¿Te duele la muñeca de cargar a tu bebé?"** | 8–21 s |
+| V3-B | (sin inicio propio) | **"2 cosas para que no te duela la muñeca al cargar a tu bebé"** | 160 s en adelante |
+| V4 | "Y ahora te quiero dar un tip para cuando…" | **"¿Estreñida en el embarazo? Prueba esto en el baño"** | 0.8–24 s |
+| V5 | "Hola, yo soy Angélica García…" | **"Si se te escapa la pipí al estornudar, esto te interesa"** | 34.7–47.7 s |
+| V6 | "¿Te acuerdas…? la hamaca" | **"Tu piso pélvico también influye en tus orgasmos"** | 49.9–64 s |
+| V7 | "¿Te acuerdas en la cápsula anterior…?" | **"La 'vejiga caída' NO es normal (y sí se recupera)"** | 40.6–58 s |
+| V8 | "Hola, soy Angélica García. Hoy vamos a…" | **"¿Por qué cuesta tanto recuperar la figura después del bebé?"** | 5.2–9 s (ya casi está al inicio) |
 
-### 🟠 Prioridad 4: Formato horizontal (V5–V8)
-- Grabados en 16:9. Para Reels o TikTok hay que **reencuadrar en vertical**. Como ella y la pantalla quedan en lados opuestos, la solución es:
-  - **Pantalla dividida** (arriba el modelo 3D, abajo Angélica), o
-  - **Recortar a Angélica** y superponer capturas del modelo 3D en los momentos clave.
-- La cámara está un poco lejos y en un ángulo lateral. En la próxima grabación conviene acercarla y ponerla más de frente.
-- Estos videos, **como están**, sirven para YouTube (formato largo) si se unen en un solo video de unos 5 minutos: "Tu piso pélvico explicado en 3D".
+El nombre se queda, pero va **después** del gancho o solo en texto ("Angélica García · Fisioterapeuta").
 
-### 🟡 Prioridad 5: Encuadre en selfie (V1–V4)
-- En varias tomas la cámara está **muy abajo** (se ve el techo, V4) o **muy cerca** (la cara se deforma). Conviene un **tripié a la altura de los ojos**.
-- En V4 el encuadre corta la demostración de postura. Para demostraciones de cuerpo completo, hay que alejar la cámara.
-- Grabar en **4K o 1080p vertical nativo** desde la cámara del teléfono, y **no mandar por WhatsApp** los originales porque los comprime (estos llegaron a 1024×576). Se deben pasar por Drive, AirDrop o cable.
+### 🔴 3. Audio
+- Todos los videos están bajos (de −18 a −36 LUFS; la referencia para redes es −14). **El V5 (−36 LUFS) casi no se oye** y hay que rescatarlo con normalización y reducción de ruido.
+- **Para las siguientes grabaciones:** micrófono de solapa inalámbrico (DJI Mic, Rode Wireless, Hollyland Lark). Es la inversión número uno.
 
-### 🟡 Prioridad 6: Llamada a la acción (CTA) y marca
-- Cerrar cada video con una CTA concreta: "Guarda este video para tu próximo embarazo", "Mándaselo a tu amiga que acaba de dar a luz", "Comenta DIÁSTASIS y te mando la guía".
-- Añadir el nombre o la marca de forma consistente: texto con el nombre, un color de marca (el **guinda o rojo del traje** ya es una paleta natural) y un logo discreto.
+### 🟠 4. Duración y repeticiones
+- **V1:** descartar. Es la misma presentación que el V2, sin terminar.
+- **V3 (4:07):** dividir en **V3-A "Por qué duele"** (0–160 s, recortado a unos 60 s) y **V3-B "Qué hacer"** (160–245 s, recortado a unos 50 s).
+- **V6 y V7 repiten** la explicación de la hamaca y la vejiga que baja. Para que no compitan:
+  - **V7** se queda con "vejiga caída / prolapso" (completo).
+  - **V6** se recorta para enfocarse en **función sexual** (0–11.6 s de repaso de la hamaca + 43.9–78 s).
+- En todos: cortes en salto para quitar muletillas ("este", "bueno", "como que"), respiraciones y reinicios. El V2 puede bajar de 1:35 a unos 45 s.
 
-### 🟡 Prioridad 7: Credenciales y cuidado del contenido médico
-- Mostrar en pantalla, al menos en los primeros videos y en la biografía, **"Lic. en Fisioterapia · Cédula XXXX"**. Da confianza y protege a la cuenta en temas de salud.
-- Evitar promesas absolutas ("cura", "elimina"). Usar formulaciones como "puede ayudar" o "consulta con un especialista".
-- En temas íntimos (V4, piso pélvico) cuidar términos y miniaturas para no activar filtros de contenido sensible de las plataformas.
+### 🟠 5. Promesas pendientes
+- El **V8** dice "más adelante vamos a hablar de **fajas y abdominales**". Ese video **hay que grabarlo** (es un tema muy buscado) o cortar la frase.
+- El **V4** dice "después tenemos videos de suelo pélvico". Se cumple con las cápsulas V5–V7; solo hay que **publicarlas en ese orden** y enlazarlas.
+
+### 🟠 6. Formato horizontal (V5–V8)
+Están grabados en 16:9. Para Reels y TikTok: **pantalla dividida** (arriba el modelo 3D, abajo Angélica) o recorte a Angélica con insertos del modelo. Para YouTube se pueden unir en un solo video largo: "Tu piso pélvico explicado en 3D".
+
+### 🟡 7. Marca inconsistente
+En el traje dice "Angélica, fisioterapeuta"; en el consultorio, "Angélica García". Hay que definir **un nombre de marca** (por ejemplo, "Angélica García | Fisio Piso Pélvico" o "La fisio de la hamaca"), una tipografía y el color **guinda o rojo** (ya presente en el traje y la filipina).
+
+### 🟡 8. Temas sensibles para las plataformas
+- **V6** (orgasmo): valioso y muy compartible, pero puede limitar el alcance. En la miniatura y la descripción conviene usar "función sexual" y evitar palabras explícitas en el texto en pantalla.
+- **V4** (evacuar): en texto, "ir al baño"; en voz está bien.
+- Mostrar **cédula profesional** en la biografía y en los primeros videos. Evitar decir "cura" y usar "puede ayudar" o "valóralo con un especialista".
+
+### 🟡 9. Técnica de grabación
+- Tripié a la altura de los ojos: en V3 y V4 la cámara está muy abajo o muy cerca.
+- **No mandar los videos originales por WhatsApp**, porque los comprime (llegaron a 1024×576). Pasarlos por Drive o por cable.
 
 ---
 
@@ -125,39 +140,45 @@ El material se divide en **dos formatos claramente distintos**, y los dos sirven
 
 Puntuación del 1 al 10 del potencial **después de editar**.
 
-| # | Tema probable | Gancho | Visual | Audio | Potencial viral | Potencial autoridad | Acción recomendada |
-|---|---|---|---|---|---|---|---|
-| V1 | Tórax / abdomen con traje | 5 | 8 | 5 | **7** | 6 | Recortar a 30–45 s, añadir gancho en texto |
-| V2 | Abdomen / diástasis | 5 | 8 | 5 | **8** | 7 | Recortar a 45 s. La diástasis es un tema muy buscado |
-| V3 | Cargar al bebé + pelvis | 6 | 9 | 5 | **9** | 7 | **Dividir en 2–3 videos**. El muñeco es un recurso muy fuerte |
-| V4 | Postura al evacuar | 6 | 8 | 4 | **9** | 7 | Tema tabú que se comparte mucho. Recortar a 45–60 s |
-| V5 | Anatomía del piso pélvico | 3 | 7 | **2** | 4 | **9** | Rescatar audio. Usar en video largo o pantalla dividida |
-| V6 | Piso pélvico normal | 4 | 7 | 7 | 5 | **9** | Pantalla dividida vertical y serie "Anatomía en 3D" |
-| V7 | Piso pélvico (comparación) | 4 | 7 | 6 | 5 | **9** | Unir con V6 como "normal vs. disfunción" |
-| V8 | Recto abdominal + piso pélvico | 4 | 8 | 7 | 6 | **9** | Complemento de V2 (diástasis) para dar profundidad |
+| Pieza | Gancho (ya existe en el crudo) | Contenido | Audio | Potencial viral | Autoridad / conversión | Prioridad de publicación |
+|---|---|---|---|---|---|---|
+| **V2** Presentación ("mi bebé nace mañana") | 9 | 6 | 5 | **8** | 6 | **#1** (se fija en el perfil) |
+| **V4** Estreñimiento + banquito | 8 | 9 | 5 | **9** | 7 | **#2** |
+| **V3-A** Por qué duele la muñeca | 8 | 9 | 5 | **8** | 8 | **#3** |
+| **V3-B** 2 tips para la muñeca | 7 | 8 | 5 | 7 | 8 | #4 |
+| **V8** Figura postparto / línea alba | 9 | 8 | 7 | **9** | **9** | #5 |
+| **V5** Qué es el suelo pélvico (hamaca) | 7 | 8 | **2** | 6 | 8 | #6 |
+| **V7** "Vejiga caída" no es normal | 8 | 8 | 6 | 7 | **9** | #7 |
+| **V6** Hamaca y función sexual | 8 | 8 | 7 | 8 (alcance limitado) | 8 | #8 |
+| V1 | — | — | — | — | — | Descartar |
 
-**Para publicar primero:** **V3 (bebé), V4 (postura en el baño) y V2 (abdomen)**. Son los de mayor potencial de alcance y presentan a la audiencia al personaje del traje.
+**Resultado:** de 8 videos crudos salen **8 piezas publicables**, más 1 video largo para YouTube con las cápsulas unidas y **1 pieza por grabar** (fajas y abdominales).
 
 ---
 
 ## 6. Posicionamiento propuesto
 
-- **Quién es:** fisioterapeuta especialista en piso pélvico y abdomen que explica el cuerpo de la mujer sin tabúes, con humor y con anatomía que se puede ver.
-- **Para quién:** embarazadas, mamás postparto y mujeres con incontinencia, diástasis, dolor pélvico o estreñimiento.
-- **Promesa:** "Entiende tu cuerpo por dentro para dejar de normalizar lo que no es normal."
+- **Quién es:** Angélica García, fisioterapeuta de piso pélvico y abdomen, que vivió en carne propia el embarazo que explica.
+- **Para quién:** embarazadas y mamás en postparto (principal) y mujeres de cualquier edad con escapes de orina, prolapso, dolor de espalda o problemas sexuales (secundario).
+- **Promesa (con sus palabras):** *"Quiero compartirte la tranquilidad de entender tu cuerpo."* Versión corta: **"Entiende tu cuerpo, deja de normalizar lo que no es normal."**
+- **Concepto de marca:** **la hamaca** 🪢, para explicar el piso pélvico de forma que cualquiera lo recuerde.
 - **Pilares de contenido:**
-  1. **Mitos vs. realidad** (formato A): "Orinarte al reír NO es normal"
-  2. **Hábitos diarios** (formato A): baño, cargar al bebé, levantar peso, toser
-  3. **Anatomía en 3D** (formato B): cómo funciona el piso pélvico y el abdomen
-  4. **Embarazo y postparto** (A + B): preparación, recuperación, diástasis
-  5. **Ejercicios guiados** (nuevo formato por grabar): rutinas cortas
+  1. **Achaques de mamá** (traje): muñeca, espalda, estreñimiento, cargar al bebé, lactancia
+  2. **Tu hamaca** (consultorio 3D): piso pélvico, incontinencia, prolapso, sexualidad
+  3. **Recuperación postparto:** diástasis, fajas, abdominales, regreso al ejercicio
+  4. **Mi postparto** (si ella quiere): su propia recuperación como fisio y mamá
+  5. **Mitos vs. realidad:** "orinarte al reír NO es normal", "la vejiga caída no es por la edad"
 
 ---
 
 ## 7. Siguientes pasos
 
-1. **Transcripción:** conseguir el guion o el audio de cada video para evaluar el mensaje hablado (claridad, términos técnicos, CTA). Si se puede habilitar el acceso a HuggingFace en la red del entorno, se transcribe aquí mismo.
-2. **Planeación:** calendario editorial de 4 semanas con los 8 videos (que rinden entre 12 y 15 piezas al dividir y reencuadrar).
-3. **Edición:** guía de estilo (tipografía, colores, subtítulos, ganchos) y edición de las primeras 3 piezas: V3, V4 y V2.
-4. **Publicación:** definir plataformas (recomendado: Instagram + TikTok para el formato A y YouTube para el formato B), horarios y textos de publicación.
-5. **Evaluación:** tablero de métricas (retención a 3 s, retención promedio, guardados, compartidos, seguidores por video) para iterar cada semana.
+1. **Decisiones de Angélica** (necesarias para editar):
+   - ¿Cuál es la oferta o llamada a la acción actual en lugar de "domingos de mayo"?
+   - ¿Nombre de marca y usuario en redes?
+   - ¿Quiere compartir su postparto y a su bebé en el contenido?
+   - ¿Plataformas? Recomendado: Instagram y TikTok para las piezas cortas, YouTube para las cápsulas largas.
+2. **Planeación:** calendario de 4 semanas con las 8 piezas, en el orden de la tabla del punto 5.
+3. **Edición:** guía de estilo (subtítulos, tipografía, colores, ganchos en texto) y lista de cortes por pieza con los tiempos de este análisis.
+4. **Grabación pendiente:** video de fajas y abdominales (lo promete el V8) y cierres genéricos con la nueva llamada a la acción.
+5. **Evaluación:** métricas por pieza (retención a 3 s, retención promedio, guardados, compartidos, mensajes pidiendo valoración) y revisión semanal.
