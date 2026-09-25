@@ -134,3 +134,24 @@ Búsquedas web del 25/09/2026: no aparecieron canales ni cuentas con "Fisio por 
 
 ### Si se prefiere que el nombre sea "De Mujer a Mujer"
 Para reducir el riesgo, hay que **acompañarlo siempre de "Fisio"** y de su nombre: "Angélica García | Fisio de Mujer a Mujer", con usuario @fisiodemujeramujer. Antes de invertir en diseño, conviene revisar en el registro de marcas de México (IMPI, base MARCia) si "De Mujer a Mujer" está registrada en servicios de salud o educación [POR CONFIRMAR; esto no es asesoría legal].
+
+---
+
+## 8. ¿Usar solo "Fisio" limita las búsquedas?
+
+**Respuesta corta:** poco, si la palabra completa aparece donde las plataformas buscan. El nombre del canal pesa menos de lo que parece: la gente busca su **problema** ("por qué me duele la espalda embarazada") y no el nombre de un canal. Quien atrae las búsquedas son los **títulos, descripciones y subtítulos de cada video**.
+
+**El riesgo sí existe en un punto:** en México se busca más "fisioterapia", "terapia física" o "rehabilitación" que "fisio" [HIPÓTESIS: verificar en Google Trends y en el autocompletado de YouTube, porque desde este entorno no se puede medir]. Por eso las palabras completas se ponen **en los campos que sí se indexan**, sin cambiar la marca:
+
+| Campo | Qué poner | Por qué |
+|---|---|---|
+| Usuario | **@fisiopordentro** | Corto y memorable (es la marca) |
+| Nombre del canal de YouTube | **Fisio por Dentro · Fisioterapia para mujeres** (o "Angélica García \| Fisio por Dentro") | El nombre aparece en la búsqueda de canales |
+| Nombre de Instagram (30 caracteres; **se indexa en la búsqueda**) | **Fisioterapia · Angélica García** (30) | Aparece al buscar "fisioterapia" en Instagram |
+| Descripción de YouTube y biografías | fisioterapia · fisioterapeuta · terapia física · embarazo · posparto · suelo pélvico · lactancia | Descripción e indexación |
+| Palabras clave del canal (YouTube Studio) | fisioterapia, terapia física, embarazo, posparto, suelo pélvico, diástasis, lactancia, dolor de espalda embarazo | Relevancia del canal |
+| **Títulos de video** | La pregunta gancho + la palabra que se busca: "¿Te duele la espalda baja en el embarazo? · Fisioterapia" | **Es lo que más pesa** |
+| Subtítulos (SRT) | Siempre en español corregido | YouTube indexa el texto hablado |
+| Hashtags | #fisioterapia #terapiafisica #embarazo #suelopelvico | Descubrimiento |
+
+**Conclusión:** "Fisio por Dentro" como marca, y "fisioterapia" y "terapia física" en el nombre visible, las descripciones y los títulos. Así se tiene una marca corta y además se aparece en las búsquedas.
