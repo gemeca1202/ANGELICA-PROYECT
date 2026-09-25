@@ -196,3 +196,23 @@ Para reducir el riesgo, hay que **acompañarlo siempre de "Fisio"** y de su nomb
 | Fisio por Dentro | 4 | 3 | 3 | **5** | **5** | 20 |
 | Fisio de Mujer a Mujer | 3 | 4 | 5 | 2 | 2 | 16 |
 | Mujer por Dentro | 4 | 2 | 5 | 4 | 4 | 19 |
+
+---
+
+## 10. Ronda creativa: territorios de marca (25/09/2026)
+
+| Territorio | Nombre | Concepto | Frase | Usuario | Lo mejor | Riesgo |
+|---|---|---|---|---|---|---|
+| ⭐ **Sostener** | **HAMACA** · Fisioterapia de la mujer | Palabra taína del Caribe (latina de origen, global de uso: *hammock*). Es la metáfora de Angélica para el suelo pélvico, la cuna del bebé, los brazos que cargan y el descanso | **La fisioterapia que sostiene a las mujeres.** Cierre: "Te sostenemos." | @hamaca.fisio · @hamacafisio | Emoción + anatomía + latinidad + historia que contar; "sostener" tiene doble sentido | Algunas fisios discuten la metáfora (se ha propuesto que el suelo pélvico funciona más como un embudo o una cúpula; https://physiodona.com/tu-suelo-pelvico-no-es-una-hamaca-mas-bien-es-un-embudo/). Es una metáfora de marca, no una definición, y Angélica ya la usa. No se encontró ninguna marca de fisio llamada "Hamaca" (búsqueda web, sin garantía) |
+| Personaje | **Angélica, la Anatómica** | Rima Angélica–Anatómica; el traje de músculos la convierte en personaje | Tu cuerpo, explicado de mujer a mujer. | @angelica.anatomica | Muy memorable y personal | Existen marcas "Anatomica" (tienda en Japón, fisio en Toronto); depende de ella como persona |
+| Conversación | **Dime Dónde** | Lo que pregunta toda fisio: "dime dónde te duele" | …y te explico por qué. | @dimedonde.fisio | Cálido y muy latino | Vago sin la palabra "fisio" |
+| Comunidad | **Club Panzona** | Irreverente y mexicano | — | — | Engancha muchísimo en el embarazo | Encasilla; ideal como nombre de **comunidad o boletín**, no como marca principal |
+| Raíz | **RAÍZ** Fisioterapia | El suelo pélvico como raíz del cuerpo | Fisioterapia desde la raíz. | @raiz.fisio | Terrenal y latino | Menos claro |
+
+**Recomendación: HAMACA · Fisioterapia de la mujer · con Angélica García**
+- **YouTube:** HAMACA · Fisioterapia de la mujer | Angélica García
+- **Instagram:** HAMACA · Fisioterapia (22 caracteres; se indexa en la búsqueda)
+- **Frase:** La fisioterapia que sostiene a las mujeres.
+- **Serie:** ¿Por qué me duele aquí? · T1 Panza por dentro.
+- **Logotipo:** una curva que es hamaca, suelo pélvico entre dos caderas y sonrisa (boceto en `marca/concepto/hamaca_1.png`).
+- **Por verificar:** IMPI y disponibilidad de @hamaca.fisio / @hamacafisio y dominios.
