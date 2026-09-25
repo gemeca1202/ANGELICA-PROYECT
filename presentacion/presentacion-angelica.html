@@ -140,6 +140,11 @@ p,li{font-size:31px;line-height:1.38}
 .quote{background:#fff;border-radius:22px;padding:18px 28px;border-left:12px solid var(--rosa);margin-bottom:14px}
 .quote p{font:700 30px/1.25 Montserrat;color:var(--carbon)}
 .quote span{display:block;font:500 20px Inter;color:var(--gris);margin-top:4px}
+.epg{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.epc{display:flex;gap:14px;align-items:flex-start;background:#fff;border-radius:18px;padding:14px 18px;border:2px solid var(--linea)}
+.epc .en{font:800 30px/1 Montserrat;color:var(--rojo);flex:0 0 44px;padding-top:2px}
+.epc p{font:700 22px/1.22 Montserrat;color:var(--carbon);margin-bottom:6px}
+.epc .et{display:inline-block;font:600 16px Inter;color:var(--guinda);background:#f3ecfb;border-radius:999px;padding:3px 10px}
 </style>
 </head>
 <body>
@@ -377,23 +382,24 @@ p,li{font-size:31px;line-height:1.38}
 
 <!-- 11 EPISODIOS -->
 <section class="s">
-  <div class="kicker">4 · Serie estrella</div>
-  <h2 style="margin-bottom:24px">Así se vería la primera temporada</h2>
-  <div class="ep">
-    <div><b>01</b>"Tu cuerpo cambió por dentro: las hormonas del embarazo"</div>
-    <div><b>02</b>"¿La relaxina es la culpable de tu dolor?"</div>
-    <div><b>03</b>"¿Por qué me falta el aire? Tu diafragma"</div>
-    <div><b>04</b>"Tu abdomen se abre: la separación de los rectos"</div>
-    <div><b>05</b>"El suelo pélvico carga más que nunca"</div>
-    <div><b>06</b>"¿Por qué me duele la espalda baja? La pelvis que se inclina"</div>
-    <div><b>07</b>"Tu centro de gravedad se movió"</div>
-    <div><b>08</b>"Respirar por dos"</div>
-    <div><b>09</b>"Agruras: por qué aparecen"</div>
-    <div><b>10</b>"¿No puedes ir al baño? El truco del banquito"</div>
-    <div><b>11</b>"Hemorroides: de eso no se habla… y hay que hablar"</div>
-    <div><b>12</b>"¿Por qué voy tanto al baño a orinar?"</div>
-  </div>
-  <div class="card" style="margin-top:20px"><p>🎬 <b>Cada episodio:</b> la pregunta → tú con el traje o en 3D lo muestras → por qué pasa → qué puedes hacer → cuándo consultar.</p></div>
+  <div class="kicker">4 · Serie estrella · Temporada 1</div>
+  <h2 style="margin-bottom:10px">Panza <span class="hl">por dentro</span></h2>
+  <p class="lead" style="font-size:27px;margin-bottom:22px">12 episodios · cada título es la frase de los primeros 3 segundos</p>
+  <div class="epg">
+    <div class="epc"><span class="en">01</span><div><p>"No estás exagerando: tu cuerpo cambió por dentro"</p><span class="et">Cambios hormonales</span></div></div>
+    <div class="epc"><span class="en">02</span><div><p>"La hormona a la que todas culpan… ¿es para tanto?"</p><span class="et">Cambios histológicos · relaxina</span></div></div>
+    <div class="epc"><span class="en">03</span><div><p>"¿Te falta el aire con solo subir tres escalones?"</p><span class="et">Dinámica muscular · diafragma</span></div></div>
+    <div class="epc"><span class="en">04</span><div><p>"Tu abdomen se abre… y está bien que lo haga"</p><span class="et">Separación de los rectos abdominales</span></div></div>
+    <div class="epc"><span class="en">05</span><div><p>"El músculo que carga a tu bebé y nadie te presentó"</p><span class="et">Sobrecarga del suelo pélvico</span></div></div>
+    <div class="epc"><span class="en">06</span><div><p>"¿Te duele la espalda baja? Mira lo que hace tu pelvis"</p><span class="et">Cambios posturales · anteversión pélvica</span></div></div>
+    <div class="epc"><span class="en">07</span><div><p>"¿Por qué ahora pierdes el equilibrio? No es torpeza"</p><span class="et">Centro de gravedad</span></div></div>
+    <div class="epc"><span class="en">08</span><div><p>"Respirar por dos: lo que le pasa a tu pecho"</p><span class="et">Cambios respiratorios</span></div></div>
+    <div class="epc"><span class="en">09</span><div><p>"Ese fuego en el pecho tiene explicación"</p><span class="et">Cambios digestivos · acidez</span></div></div>
+    <div class="epc"><span class="en">10</span><div><p>"¿No puedes ir al baño? El truco del banquito"</p><span class="et">Cambios digestivos · estreñimiento</span></div></div>
+    <div class="epc"><span class="en">11</span><div><p>"De esto nadie habla… y aquí sí lo hablamos"</p><span class="et">Cambios digestivos · hemorroides</span></div></div>
+    <div class="epc"><span class="en">12</span><div><p>"¿Otra vez al baño? Por qué tu vejiga no te deja en paz"</p><span class="et">Cambios urinarios</span></div></div>
+    </div>
+  <div class="card" style="margin-top:18px;padding:22px 28px"><p style="font-size:24px">🎬 <b>Cada episodio:</b> la pregunta → tú con el traje o en 3D lo muestras → por qué pasa → qué puedes hacer → cuándo consultar.</p></div>
   <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">16</div>
 </section>
 
