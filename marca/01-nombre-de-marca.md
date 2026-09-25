@@ -155,3 +155,44 @@ Para reducir el riesgo, hay que **acompañarlo siempre de "Fisio"** y de su nomb
 | Hashtags | #fisioterapia #terapiafisica #embarazo #suelopelvico | Descubrimiento |
 
 **Conclusión:** "Fisio por Dentro" como marca, y "fisioterapia" y "terapia física" en el nombre visible, las descripciones y los títulos. Así se tiene una marca corta y además se aparece en las búsquedas.
+
+---
+
+## 9. Propuesta final: ELLA Fisioterapia
+
+> # Angélica García | ELLA Fisioterapia
+> **La fisioterapia que entiende a las mujeres.**
+
+### Por qué es mejor que las anteriores
+| Necesidad | Cómo la cumple |
+|---|---|
+| **Poderoso y corto** | Cuatro letras, fácil de recordar y de dictar: "Síguenos en ELLA Fisioterapia" |
+| **Búsquedas** | Incluye **"Fisioterapia" completa**, lo que resuelve la duda de la sección 8 |
+| **Entiende a las mujeres** | "Ella" es cada mujer que la ve: la embarazada, la mamá, la abuela, ella misma. Recoge la idea de "de mujer a mujer" sin usar una frase que ya existe |
+| **Latino y global** | "Ella" se entiende en todo el mundo hispano; en portugués es "ela" (casi igual) y en inglés funciona como nombre (*ELLA Physiotherapy*) |
+| **Crece con ella** | Embarazo, posparto, lactancia, bebé, menopausia: todo es "para ella". Si algún día habla de otros públicos, "ELLA" sigue siendo la marca de quien la hace |
+| **Sistema de series** | Se mantiene lo aprobado: la serie **¿Por qué me duele aquí?** con la temporada **Panza por dentro**; "por dentro" se queda como el sello de las temporadas y del traje |
+| **Diseño** | Idea de logotipo: en **ELLA**, las dos **L** son los dos rectos abdominales y el espacio entre ellas es la línea alba. Anatomía escondida en el nombre, en la paleta guinda y rosa |
+
+### Cómo se ve
+| Dónde | Texto |
+|---|---|
+| YouTube | **Angélica García \| ELLA Fisioterapia** |
+| Usuario | **@ellafisioterapia** (alternativas: @ella.fisioterapia, @ellafisio, @ellafisioterapia.mx) |
+| Nombre de Instagram (30 caracteres) | ELLA Fisioterapia · Angélica (28) |
+| Biografía | ELLA Fisioterapia 🦴 La fisioterapia que entiende a las mujeres · Embarazo · posparto · lactancia · suelo pélvico |
+| Cierre de los videos | "Soy Angélica García y esto es ELLA Fisioterapia: la fisioterapia que entiende a las mujeres." |
+| Banner | ELLA Fisioterapia · La fisioterapia que entiende a las mujeres · Nuevo video cada domingo |
+
+### Riesgos y verificación
+- Existe **"Ella clinics / Ella physiotherapy"** en Facebook, en inglés y en otra región (https://www.facebook.com/EllaphysiotherapyClinics/). El riesgo de confusión en español es bajo, pero **hay que verificarlo**.
+- No aparecieron "ELLA Fisioterapia", "FisioElla" ni "Ella por dentro" en español (búsqueda web del 25/09/2026). **Esto no confirma que estén libres.**
+- Antes del logo: consultar el IMPI (base MARCia) para la clase de servicios de salud y educación, y reservar el usuario en todas las redes el mismo día [POR CONFIRMAR].
+
+### Comparación final
+| Opción | Poder | Búsquedas | Emoción (mujeres) | Diferencial | Riesgo de conflicto | Total /25 |
+|---|---|---|---|---|---|---|
+| **ELLA Fisioterapia** | 5 | **5** | **5** | 4 | 4 | **23** |
+| Fisio por Dentro | 4 | 3 | 3 | **5** | **5** | 20 |
+| Fisio de Mujer a Mujer | 3 | 4 | 5 | 2 | 2 | 16 |
+| Mujer por Dentro | 4 | 2 | 5 | 4 | 4 | 19 |
