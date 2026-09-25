@@ -99,31 +99,48 @@ p,li{font-size:31px;line-height:1.38}
 .opt{background:rgba(255,255,255,.1);border-radius:22px;padding:20px 26px;margin-bottom:14px}
 .opt h3{font-size:30px;color:#fff;margin-bottom:4px}
 .opt p{font-size:24px;color:var(--hueso)}
+
+.ph{background-size:cover;background-position:center;border-radius:28px}
+.cover-ph{position:absolute;right:0;bottom:0;width:600px;height:820px;background:url(img/consultorio_retrato.jpg) center top/cover}
+.cover-ph:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,var(--guinda) 0%,rgba(123,30,58,0) 35%),linear-gradient(90deg,var(--guinda) 0%,rgba(123,30,58,0) 40%)}
+.strip{display:grid;grid-template-columns:1fr 1fr 1.6fr;gap:16px;height:250px;margin-bottom:30px}
+.strip div{border-radius:22px;background-size:cover;background-position:center 25%}
+.av{width:118px;height:118px;border-radius:50%;background-size:cover;background-position:center 20%;border:5px solid #fff;box-shadow:0 0 0 3px var(--rosa);flex:0 0 118px}
+.enf{display:flex;gap:24px;align-items:flex-start}
+.enf .tx{flex:1}
+.s:not(.dark):before{content:"";position:absolute;right:-40px;top:40px;width:420px;height:120px;opacity:.55;
+ background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 420 120'><path d='M10 20 Q210 150 410 20' fill='none' stroke='%23E8A5B5' stroke-width='6' stroke-linecap='round'/><circle cx='10' cy='20' r='9' fill='%23E8A5B5'/><circle cx='410' cy='20' r='9' fill='%23E8A5B5'/></svg>") no-repeat}
+.feat{display:flex;flex-direction:column;gap:14px}
+.feat div{background:#fff;border-radius:20px;padding:16px 22px;border:2px solid var(--linea);font-size:24px;line-height:1.32}
+.feat b{font-family:Montserrat;color:var(--guinda)}
+.cap{font:700 20px Montserrat;letter-spacing:.1em;text-transform:uppercase;color:var(--gris);margin-top:10px;text-align:center}
 </style>
 </head>
 <body>
 
 <!-- 1 PORTADA -->
 <section class="s dark">
-  <div style="margin-top:150px">
+  <div class="cover-ph"></div>
+  <div style="margin-top:110px;position:relative">
     <div class="kicker">Propuesta · Septiembre 2026</div>
     <h1>Angélica García<br><span class="hl">Fisioterapeuta</span></h1>
-    <p class="lead" style="margin-top:50px;font-size:44px">Lo que vimos en ti,<br>la marca que proponemos<br>y el plan para lanzarte.</p>
+    <p class="lead" style="margin-top:44px;font-size:40px;max-width:520px">Lo que vimos en ti, la marca que proponemos y el plan para lanzarte.</p>
   </div>
-  <div class="foot" style="font-size:30px">⏱️ Lectura: 6 minutos<br>📌 Todo es una <b>propuesta</b>: tú decides.</div>
+  <div class="foot" style="font-size:28px;position:relative;max-width:440px">⏱️ Lectura: 6 minutos<br>📌 Todo es una <b>propuesta</b>: tú decides.</div>
 </section>
 
 <!-- 2 LO QUE VIMOS -->
 <section class="s">
   <div class="kicker">1 · Lo que vimos</div>
   <h2>Revisamos tus 8 videos, uno por uno</h2>
-  <div class="row" style="margin-bottom:34px">
+  <div class="row" style="margin-bottom:24px">
     <div class="card" style="flex:1;text-align:center"><div class="stat">8</div><p>videos grabados<br>por ti</p></div>
     <div class="card" style="flex:1;text-align:center"><div class="stat">0</div><p>edición o<br>producción</p></div>
     <div class="card" style="flex:1;text-align:center"><div class="stat">100%</div><p>escuchados<br>a detalle</p></div>
   </div>
+  <div class="strip"><div style="background-image:url(img/traje.jpg)"></div><div style="background-image:url(img/embarazo.jpg)"></div><div style="background-image:url(img/consultorio_ancho.jpg);background-position:center"></div></div>
   <p class="lead">Los grabaste con tus propios recursos, sin edición ni equipo profesional…</p>
-  <div class="big-quote" style="font-size:62px;margin:30px 0">…y aun así ya se nota <span class="hl">todo lo que tienes para dar.</span></div>
+  <div class="big-quote" style="font-size:54px;margin:22px 0">…y aun así ya se nota <span class="hl">todo lo que tienes para dar.</span></div>
   <p class="lead">Nos sirvieron para conocer tu forma de explicar y tu estilo. <b>Con la producción grabaremos contenido nuevo</b>, con todo el equipo detrás.</p>
   <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">2</div>
 </section>
@@ -146,10 +163,35 @@ p,li{font-size:31px;line-height:1.38}
 <section class="s dark">
   <div class="kicker">1 · Lo que vimos</div>
   <h2 style="color:var(--hueso)">Tu sello: el traje de músculos 🦴</h2>
-  <div class="big-quote" style="font-size:66px">"Me pongo el cuerpo por dentro<br><span class="hl">para explicártelo."</span></div>
-  <p class="lead">Es una idea <b>original</b>: nadie más en tu tema la usa. Cuando señalas tu abdomen, la gente <b>ve</b> el músculo del que hablas.</p>
+  <div style="display:grid;grid-template-columns:1.15fr .85fr;gap:30px;align-items:start">
+    <div>
+      <div class="big-quote" style="font-size:54px;margin:0 0 26px">"Me pongo el cuerpo por dentro <span class="hl">para explicártelo."</span></div>
+      <p class="lead" style="font-size:31px">Es una idea <b>original</b>: nadie más en tu tema la usa. Cuando señalas tu abdomen, la gente <b>ve</b> el músculo del que hablas.</p>
+    </div>
+    <div class="ph" style="height:560px;background-image:url(img/traje.jpg);background-position:center 30%;border:6px solid var(--rosa)"></div>
+  </div>
   <div class="opt" style="margin-top:30px"><h3>Lo convertimos en tu uniforme</h3><p>Aparece en la serie <b>"¿Por qué me duele aquí?"</b>, en las portadas y en tu foto de perfil. Así te reconocen en un segundo.</p></div>
   <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">4</div>
+</section>
+
+<!-- 4B TRAJE 2.0 -->
+<section class="s">
+  <div class="kicker">1 · Propuesta extra</div>
+  <h2 style="margin-bottom:28px">El traje 2.0 ✨<br><span style="font:600 30px Inter;color:var(--gris)">Rediseñado con precisión anatómica</span></h2>
+  <div style="display:grid;grid-template-columns:.8fr 1.2fr;gap:28px;align-items:start">
+    <div>
+      <div class="ph" style="height:560px;background-image:url(img/embarazo.jpg);background-position:center 35%"></div>
+      <div class="cap">Tu traje actual</div>
+    </div>
+    <div class="feat">
+      <div><b>Músculos exactos</b><br>Forma, tamaño y dirección de fibras reales: recto abdominal con su línea alba, oblicuos, pectoral, serrato…</div>
+      <div><b>Capas que se descubren</b><br>Paneles intercambiables para enseñar lo profundo: transverso, diafragma y suelo pélvico.</div>
+      <div><b>Versión embarazo</b><br>Un panel frontal que muestra cómo se separan los rectos y cómo crece el útero.</div>
+      <div><b>Colores de tu marca</b><br>Rojos y guinda elegantes: anatomía, no disfraz de superhéroe.</div>
+      <div><b>Diseñado en 3D por nosotros</b><br>Lo modelamos, lo validas tú y después se cotiza su confección <span class="small">(opcional)</span>.</div>
+    </div>
+  </div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">5</div>
 </section>
 
 <!-- 5 PRODUCCIÓN SUMA -->
@@ -164,7 +206,7 @@ p,li{font-size:31px;line-height:1.38}
   <div class="ba"><div class="a">Un solo formato</div><div class="m">➜</div><div class="d">📱 <b>Formato para cada red</b>: vertical, horizontal, carrusel</div></div>
   <div class="ba"><div class="a">Improvisar</div><div class="m">➜</div><div class="d">📝 <b>Guiones listos</b>: tú solo revisas y das el visto bueno</div></div>
   <div class="ba"><div class="a">Publicar cuando se puede</div><div class="m">➜</div><div class="d">📅 <b>Calendario diario</b> en todas tus redes</div></div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">5</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">6</div>
 </section>
 
 <!-- 6 MARCA -->
@@ -175,7 +217,7 @@ p,li{font-size:31px;line-height:1.38}
   <p class="lead">Todas las mujeres se lo han preguntado: en el embarazo, después del parto, al cargar a su bebé, en la menopausia. <b>Tú tienes la respuesta, y la puedes mostrar.</b></p>
   <div class="opt" style="margin-top:26px"><h3>Útil ✦ Cercana ✦ Visual</h3><p>Cada video resuelve una duda real, con tu traje y gráficos 3D, y dice qué hacer y cuándo consultar.</p></div>
   <p class="foot" style="font-size:25px">Empezamos por el embarazo, pero la marca crece contigo: posparto, lactancia, bebés y cada etapa de la mujer.</p>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">6</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">7</div>
 </section>
 
 <!-- 7 LEMA -->
@@ -188,29 +230,29 @@ p,li{font-size:31px;line-height:1.38}
   <div class="lema">Frecuente no es lo mismo que normal.</div>
   <div class="lema">Te explico tu cuerpo por dentro.</div>
   <div class="card" style="margin-top:12px"><p>👤 Nombre: <b>Angélica García · Fisioterapeuta</b><br>🔗 Usuario sugerido: <b>@angelicagarcia.fisio</b> <span class="small">(por confirmar)</span></p></div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">7</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">8</div>
 </section>
 
 <!-- 8 ENFOQUE -->
 <section class="s">
   <div class="kicker">3 · Tu marca</div>
   <h2>¿Cómo quieres que te vean?</h2>
-  <div class="enf">
+  <div class="enf"><div class="av" style="background-image:url(img/consultorio_retrato.jpg)"></div><div class="tx">
     <h3>🩺 Técnica especializada</h3>
     <p>Consultorio, filipina, 3D y lenguaje preciso. La experta.</p>
     <div class="pc"><div class="pro">✅ Mucha autoridad y confianza</div><div class="con">⚠️ Se siente más lejana</div></div>
-  </div>
-  <div class="enf">
+  </div></div>
+  <div class="enf"><div class="av" style="background-image:url(img/embarazo.jpg)"></div><div class="tx">
     <h3>🤱 Natural, como mamá</h3>
     <p>Tu día a día, tu experiencia y tu bebé (de forma sutil). La que lo vive.</p>
     <div class="pc"><div class="pro">✅ Conexión inmediata</div><div class="con">⚠️ Expones más tu vida privada</div></div>
-  </div>
-  <div class="enf rec">
+  </div></div>
+  <div class="enf rec"><div class="av" style="background-image:url(img/traje.jpg)"></div><div class="tx">
     <h3>✨ Mixta <span class="badge">RECOMENDADA</span></h3>
     <p>La especialista que <b>también lo vivió</b>: la mayor parte, contenido experto; de vez en cuando, momentos personales que tú eliges.</p>
     <div class="pc"><div class="pro">✅ Autoridad + cercanía</div><div class="con">⚠️ Requiere definir tus límites</div></div>
-  </div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">8</div>
+  </div></div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">9</div>
 </section>
 
 <!-- 9 MAPA DE TEMAS -->
@@ -222,13 +264,14 @@ p,li{font-size:31px;line-height:1.38}
   <div class="area"><h3><span class="sw" style="background:var(--cielo)"></span>Fisio como ayuda en lactancia</h3><div class="chips"><span class="chip">Bebé tenso, agarre difícil</span><span class="chip">Mamá tensa, postura incómoda</span><span class="chip">La posición ideal es la que les funcione a los dos</span></div></div>
   <div class="area"><h3><span class="sw" style="background:var(--lima)"></span>Fisio para bebé</h3><div class="chips"><span class="chip">Gestión de gases</span><span class="chip">Orientación óptica</span><span class="chip">Prevención de plagiocefalias</span><span class="chip">Boca abajo efectivo</span><span class="chip">Hitos motores</span><span class="chip">¿Mi bebé necesita ayuda?</span></div></div>
   <div class="area"><h3><span class="sw" style="background:var(--rosa)"></span>Fisio para la mujer</h3><div class="chips"><span class="chip">Suelo pélvico en cada etapa de la vida</span><span class="chip">Perimenopausia y menopausia</span></div></div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">9</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">10</div>
 </section>
 
 <!-- 10 SERIE ESTRELLA -->
 <section class="s">
+  <div class="av" style="position:absolute;right:84px;top:96px;width:170px;height:170px;background-image:url(img/embarazo.jpg)"></div>
   <div class="kicker">4 · Serie estrella</div>
-  <h2 style="margin-bottom:22px">¿Por qué me duele aquí?<br><span style="font:600 30px Inter;color:var(--gris)">La pregunta de muchas panzonas 🤰</span></h2>
+  <h2 style="margin-bottom:22px;max-width:720px">¿Por qué me duele aquí?<br><span style="font:600 30px Inter;color:var(--gris)">La pregunta de muchas panzonas 🤰</span></h2>
   <div class="tree">
     <div class="br"><h3>1 · Cambios hormonales</h3></div>
     <div class="br"><h3>2 · Cambios histológicos</h3><div class="sub"><span>Efecto de la relaxina</span></div></div>
@@ -239,7 +282,7 @@ p,li{font-size:31px;line-height:1.38}
     <div class="br"><h3>7 · Cambios urinarios</h3></div>
   </div>
   <p class="foot" style="margin-top:18px">Cada tema es un video corto; los temas grandes también tienen su video largo en YouTube.</p>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">10</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">11</div>
 </section>
 
 <!-- 11 EPISODIOS -->
@@ -261,7 +304,7 @@ p,li{font-size:31px;line-height:1.38}
     <div><b>12</b>"¿Por qué voy tanto al baño a orinar?"</div>
   </div>
   <div class="card" style="margin-top:20px"><p>🎬 <b>Cada episodio:</b> la pregunta → tú con el traje o en 3D lo muestras → por qué pasa → qué puedes hacer → cuándo consultar.</p></div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">11</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">12</div>
 </section>
 
 <!-- 12 PLATAFORMAS -->
@@ -277,7 +320,7 @@ p,li{font-size:31px;line-height:1.38}
   </div>
   <div class="card" style="margin-top:18px"><h3>💬 WhatsApp Business</h3><p>Donde te escriben para citas, talleres y cursos.</p></div>
   <p class="foot">🔒 Las cuentas son <b>tuyas</b>. Trabajamos con permisos, <b>nunca con tus contraseñas</b>.</p>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">12</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">13</div>
 </section>
 
 <!-- 13 PRIMER MES -->
@@ -292,7 +335,7 @@ p,li{font-size:31px;line-height:1.38}
   </div>
   <div class="card" style="margin-top:22px"><p>📅 Publicado en <b>Instagram, Facebook, TikTok y YouTube</b>, con un calendario día por día. La serie <b>"¿Por qué me duele aquí?"</b> arranca desde la primera semana.</p></div>
   <p class="foot">Los guiones los preparamos nosotros. Tú los revisas y das el visto bueno antes de publicar.</p>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">13</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">14</div>
 </section>
 
 <!-- 14 QUIÉN HACE QUÉ -->
@@ -319,14 +362,15 @@ p,li{font-size:31px;line-height:1.38}
     </div>
   </div>
   <p class="foot">¿Un día sin tiempo? Una nota de voz de 1 minuto basta, o nada: siempre tendremos videos de reserva.</p>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">14</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">15</div>
 </section>
 
 <!-- 15 INGRESOS -->
 <section class="s">
   <div class="kicker">6 · Ingresos</div>
   <h2>Tus talleres, al siguiente nivel</h2>
-  <p class="lead" style="margin-bottom:24px">Ya has dado talleres en vivo, casi todos gratis. Ahora los convertimos en <b>un camino que te genere ingresos</b>:</p>
+  <div class="ph" style="height:270px;background-image:url(img/consultorio_3d.jpg);background-position:center 6%;margin-bottom:22px"></div>
+  <p class="lead" style="margin-bottom:20px;font-size:31px">Ya has dado talleres en vivo, casi todos gratis. Ahora los convertimos en <b>un camino que te genere ingresos</b>:</p>
   <div class="ladder">
     <div class="step"><span class="n">1</span><div><b>Videos</b> · te conocen y confían en ti</div></div>
     <div class="arrow">▼</div>
@@ -337,7 +381,7 @@ p,li{font-size:31px;line-height:1.38}
     <div class="step"><span class="n">4</span><div><b>Curso de varias sesiones</b> · cuando haya demanda</div></div>
   </div>
   <div class="card" style="margin-top:20px;border-left:14px solid var(--rojo)"><p>🩺 Y siempre: <b>tus consultas y valoraciones</b>, para quien necesita atención personal.</p></div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">15</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">16</div>
 </section>
 
 <!-- 16 PRIMER TALLER -->
@@ -352,7 +396,7 @@ p,li{font-size:31px;line-height:1.38}
     <div class="opt" style="margin:0"><p>👥 <b>8 a 20</b> personas</p></div>
   </div>
   <p class="foot">Precio y fecha los definimos juntas con base en tu experiencia en talleres. Si no se juntan las mínimas, se devuelve el dinero.</p>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">16</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">17</div>
 </section>
 
 <!-- 17 COMPROMISOS -->
@@ -367,7 +411,7 @@ p,li{font-size:31px;line-height:1.38}
     <div class="ico">🪙</div><h3>Arrancamos sin gastos extra</h3>
     <p>Usamos el equipo, los programas y las herramientas que ya tenemos. Sin anuncios pagados al inicio. Cualquier inversión futura sería <b>opcional</b> y con lo que se vaya generando.</p>
   </div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">17</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">18</div>
 </section>
 
 <!-- 18 TIMELINE -->
@@ -381,7 +425,7 @@ p,li{font-size:31px;line-height:1.38}
     <div class="it"><h3>Días 31–60 · Primer taller</h3><p>Preventa y tu taller pagado.</p></div>
     <div class="it"><h3>Días 61–90 · Crecer</h3><p>Repetimos lo que funcionó y abrimos nuevos temas: posparto, lactancia, bebé.</p></div>
   </div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">18</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">19</div>
 </section>
 
 <!-- 19 PREGUNTAS 1-4 -->
@@ -392,7 +436,7 @@ p,li{font-size:31px;line-height:1.38}
   <div class="q"><h3>2 · Tu formación</h3><p>¿Qué estudios, cédula profesional, especialidades y certificaciones tienes?</p></div>
   <div class="q"><h3>3 · Tus redes</h3><p>¿Qué cuentas tienes ya (Instagram, Facebook, TikTok, YouTube, WhatsApp Business), con qué usuario? ¿Tienes correo de Gmail?</p></div>
   <div class="q"><h3>4 · Tu privacidad</h3><p>¿Estás dispuesta a compartir momentos personales como tu embarazo y tu posparto? ¿Te gustaría que aparezca tu bebé, de manera sutil y profesional?</p></div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">19</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">20</div>
 </section>
 
 <!-- 20 PREGUNTAS 5-8 -->
@@ -403,18 +447,19 @@ p,li{font-size:31px;line-height:1.38}
   <div class="q"><h3>6 · Tus talleres anteriores</h3><p>¿Qué talleres has dado? ¿Cuáles cobraste, a qué precio y cuántas personas asistieron?</p></div>
   <div class="q"><h3>7 · Tus metas</h3><p>¿Cuánto esperas obtener al mes con cursos, talleres y consultas en 3 y en 6 meses? ¿Cómo cobras hoy?</p></div>
   <div class="q"><h3>8 · Tu estilo</h3><p>¿Qué enfoque eliges (técnica, mamá o mixta) y qué lema te gusta? ¿Conoces a alguna colega, como una nutrióloga, para colaborar?</p></div>
-  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">20</div>
+  <div class="brand">Angélica García · Fisioterapeuta</div><div class="num">21</div>
 </section>
 
 <!-- 21 CIERRE -->
 <section class="s dark">
-  <div style="margin-top:180px">
+  <div class="cover-ph" style="background-image:url(img/consultorio3d_retrato.jpg);width:560px;height:760px"></div>
+  <div style="margin-top:120px;position:relative;max-width:620px">
     <div class="kicker">Siguiente paso</div>
     <h1 style="font-size:84px">Respóndeme<br><span class="hl">por audio</span> 🎙️</h1>
     <p class="lead" style="margin-top:44px;font-size:40px">No tiene que ser perfecto. Con tus respuestas afinamos el plan y empezamos a producir.</p>
     <p class="lead" style="margin-top:34px;font-size:40px">Si algo no te late, dímelo: <b>todo se puede cambiar.</b></p>
   </div>
-  <div class="foot" style="font-size:34px;color:var(--hueso)"><b>Entiende tu cuerpo. Muévete mejor.</b> 💛</div>
+  <div class="foot" style="font-size:34px;color:var(--hueso);position:relative"><b>Entiende tu cuerpo. Muévete mejor.</b> 💛</div>
 </section>
 
 </body>
