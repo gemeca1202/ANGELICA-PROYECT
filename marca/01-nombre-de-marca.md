@@ -231,3 +231,18 @@ Presentación: `marca/opciones/Opciones_de_marca.pdf` (5 láminas).
 **Fuentes sobre el rebozo:** https://mujermexico.com/noticias/historia-del-rebozo-mexicano-simbolo-identidad/ · https://oem.com.mx/elsoldelcentro/cultura/por-que-las-mujeres-mexicanas-usaban-rebozo-la-prenda-servia-para-cubrirse-cargar-bebes-y-hasta-transportar-comida-30158480
 
 **Búsquedas web del 25/09/2026:** no aparecieron marcas de fisioterapia llamadas "Adentro" ni "Rebozo". Falta verificar el IMPI, los usuarios y los dominios de las tres.
+
+---
+
+## 12. "Hamaca" en la fisioterapia de la mujer (aporte del coordinador, 25/09/2026)
+Según los resultados de Google que compartió el coordinador, en fisioterapia de la mujer "hamaca" se usa en dos sentidos:
+1. **El suelo pélvico como "hamaca muscular"**, del pubis al coxis, que sostiene útero, vejiga e intestino. Es la analogía habitual en fisioterapia obstétrica y uroginecológica (p. ej., https://colfisiocv.com/node/12695).
+2. **La hamaca postural K-Stretch**, un dispositivo comercial para estiramientos globales, usado también en el embarazo y el posparto (https://www.k-stretch.com/es/k-stretch/hamaca).
+
+**Qué significa para la marca:**
+- ✅ **Refuerza HAMACA:** la palabra ya pertenece al vocabulario de la fisioterapia de la mujer. Tiene relevancia temática y la gente que busca "hamaca suelo pélvico" ya está en su nicho.
+- ⚠️ **Hay competencia de búsqueda y posible confusión:** con la hamaca K-Stretch (producto de otra empresa) y con las hamacas como mueble. Por eso la marca **siempre** se escribe "HAMACA · Fisioterapia de la mujer", y el usuario incluye "fisio".
+- ⚠️ **Registro de marca:** comprobar en el IMPI si hay registros de "hamaca" en la clase de servicios de salud o fisioterapia (incluido K-Stretch) antes de invertir en el logotipo [POR CONFIRMAR; esto no es asesoría legal].
+- 💡 **Idea de contenido:** un video de lanzamiento: "¿Por qué mi marca se llama HAMACA?", que explique la metáfora del suelo pélvico y el origen taíno de la palabra.
+
+La lámina 2 de `marca/opciones/Opciones_de_marca.pdf` se actualizó con este matiz.
