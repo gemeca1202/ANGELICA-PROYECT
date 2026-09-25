@@ -1,65 +1,60 @@
-# I. Confianza, rigor clínico y comunidad
+# I. Rigor clínico, comunidad y privacidad
 
-> Este registro **no** es una revisión clínica definitiva. Recoge afirmaciones que hay que contrastar y propone cómo decirlas. **Angélica aprueba, corrige o descarta cada una.** Las fuentes se consultaron el 24/09/2026 (a veces a través de resúmenes de búsqueda); las marcadas "(fuente primaria pendiente)" requieren leer el artículo completo.
+> **Compromiso con Angélica:** nada sale sin su visto bueno. Este registro **se revisa con ella en privado y de forma directa** (sesión de 60–90 min antes de la Jornada 1), no en la presentación. No es una revisión clínica definitiva: propone redacciones y fuentes para que ella decida.
 
-## I.1 Registro de afirmaciones (RC)
+## I.1 Registro de la temporada 1 "Panza por dentro"
 
-| RC | Origen | Afirmación | Problema o incertidumbre | Fuente pertinente | Redacción propuesta | Estado |
+| RC | Episodio | Afirmación | Incertidumbre | Fuente | Redacción usada | Estado |
 |---|---|---|---|---|---|---|
-| RC-01 | V3 (≈113–153 s) | La tensión de los músculos del antebrazo comprime el túnel del carpo y por eso duermen la mano y duele la muñeca al cargar | Explicación simplificada. En el embarazo, el síndrome del túnel del carpo se asocia sobre todo a **retención de líquidos y edema**. El dolor de muñeca del **postparto** suele ser, además, **tenosinovitis de De Quervain** (lado del pulgar), por sobrecarga | Revisión divulgativa de Northwell sobre De Quervain en el postparto; (fuente primaria pendiente: revisión sobre túnel del carpo en el embarazo) | "Al cargar con la muñeca doblada y el pulgar como gancho, los tendones del lado del pulgar trabajan de más y pueden doler. Si hay hormigueo o se duermen los dedos, sobre todo de noche, conviene valorarlo." | Pendiente |
-| RC-02 | V3 (≈165–220 s) | Fortalecer la espalda estabiliza la escápula y así se evita el dolor de muñeca | Cadena causal no demostrada; puede ser útil como parte de un abordaje, no como regla | Razonamiento clínico (fuente pendiente) | "Además de la muñeca, ayuda repartir el esfuerzo con hombros y espalda y cambiar de postura." | Pendiente |
-| RC-03 | V4 | El banquito facilita la evacuación; la progesterona produce estreñimiento | La progesterona contribuye a un tránsito más lento (aceptado). El banquito mostró menos esfuerzo y mejor vaciado en un estudio pequeño con **adultos sanos** (Modi 2019, n = 52), no específicamente en embarazadas | Verghese 2015; Modi 2019 | "A muchas personas les ayuda… Súmale agua, fibra y movimiento. Si hay dolor fuerte, sangrado o varios días sin evacuar, coméntalo con tu médico." | Pendiente |
-| RC-04 | V5 (≈53–67 s) | Las lumbalgias "muchas veces tienen su origen en una disfunción" del piso pélvico | Hay asociación descrita entre disfunción del piso pélvico y dolor lumbopélvico, pero "origen" y "muchas veces" exageran la causalidad | NICE NG210 (contexto); (fuente primaria pendiente) | "El dolor de espalda baja y el piso pélvico pueden estar relacionados; por eso una valoración revisa ambos." | Pendiente |
-| RC-05 | V6/V7 | Cuando la "hamaca" está flácida, los órganos bajan y la vejiga "se hace más chiquita" | El prolapso es **multifactorial** (partos, tejido conectivo, esfuerzo, estreñimiento, edad), no solo debilidad muscular. La "vejiga más chiquita" es imprecisa: pueden aparecer urgencia, frecuencia o dificultad para vaciar | NICE NG210 (el prolapso puede estar presente hasta en el 50 % de las mujeres; impacto en la calidad de vida) | "En el prolapso, algún órgano pélvico baja más de lo habitual. Influyen varios factores. Puede dar sensación de peso, bulto, ganas frecuentes o dificultad para vaciar." | Pendiente |
-| RC-06 | V6 | Con los músculos relajados, el orgasmo es más difícil porque viene de su contracción | Los músculos del piso pélvico participan en la respuesta orgásmica. El entrenamiento mejora la función sexual en revisiones, pero con **certeza baja**. El orgasmo es **multifactorial** | Revisión sistemática y metaanálisis AJOG 2024 (certeza baja) | "El piso pélvico participa en la respuesta sexual. Cuando no funciona bien, puede influir en las sensaciones, junto con otros factores. Se puede valorar." | Pendiente |
-| RC-07 | V7 | "Sin importar la edad, estos músculos se pueden recuperar" | Promesa universal. El entrenamiento del piso pélvico **mejora los síntomas** en muchas mujeres y es la primera opción recomendada para el prolapso leve y la incontinencia, pero **no** garantiza que se revierta. Hay otras opciones (pesario, cirugía) | NICE NG210; Cochrane (Dumoulin 2018, incontinencia); (fuente pendiente: Cochrane sobre prolapso) | "A cualquier edad se puede entrenar el piso pélvico, y muchas mujeres mejoran sus síntomas. Si no alcanza, hay otras opciones con tu médico." | Pendiente |
-| RC-08 | V8 (≈27–37 s) | En la línea alba "ocurren unas microrupturas" | Término impreciso. Lo descrito es **estiramiento y adelgazamiento** de la línea alba con separación de los rectos. Es muy frecuente: ≈ 60 % a las 6 semanas del postparto y ≈ 33 % a los 12 meses en un estudio | Sperstad 2016 (BJSM) | "La línea alba, el tejido del centro del abdomen, se estira para dar espacio. Es muy frecuente y en muchas mujeres mejora con el tiempo; la función se entrena." | Pendiente |
-| RC-09 | V8 → G-10 | Faja y abdominales en el postparto | Evidencia limitada y heterogénea. No hay una prohibición universal de los abdominales. La faja puede dar comodidad, no entrena | (fuente pendiente: revisión sobre ejercicio y diástasis); PDF p. 2 pilar 2 (idea educativa) | Texto de G-10 | Pendiente |
-| RC-10 | Lista de Angélica: relaxina | La relaxina causa el dolor en el embarazo | Revisión sistemática: **no hay asociación consistente** entre niveles de relaxina y dolor de cintura pélvica (los estudios de mayor calidad no la encontraron) | Aldabe et al. 2012 (Eur Spine J) | Texto de G-06 | Pendiente |
-| RC-11 | V2 | Lo que sientes en el embarazo "no le hace daño al bebé" | Tranquilizar está bien, pero **algunas** señales sí son urgentes | Guías obstétricas generales (fuente pendiente) | "Muchas molestias del embarazo son frecuentes y no dañan al bebé. Pero si tienes sangrado, dolor fuerte, pérdida de líquido, dolor de cabeza con visión borrosa, fiebre o notas menos movimientos del bebé, acude a urgencias." | Pendiente |
-| RC-12 | G-09, I-20, I-43 | "Frecuente no es normal"; el entrenamiento del piso pélvico como primer paso | Bien respaldado para la incontinencia urinaria | Cochrane (Dumoulin 2018); NICE NG210; síndrome genitourinario de la menopausia (PubMed 37019140) | Texto de G-09 | Pendiente |
-| RC-13 | PDF p. 2, pilar 1 | "El CALP es una unidad" (diafragma, pared abdominal, zona lumbar y suelo pélvico gestionan presiones) | Es un modelo didáctico muy extendido en la fisioterapia de piso pélvico; útil para explicar | Uso del término "CALP = complejo abdomino-lumbo-pélvico" en la práctica clínica en español; (fuente primaria pendiente) | Metáfora **propia**: "tu tronco es una lata: tapa, paredes y fondo" (I-60, P-23). **No** se copian diapositivas | Pendiente |
-| RC-14 | PDF p. 2, pilar 2 | "La diástasis no es la disfunción"; importa la tensión de la línea alba | Coherente con la literatura reciente (fuente pendiente: Lee & Hodges 2016). No se ofrecen autopruebas | — | "No solo importan los centímetros; importa cómo responde tu abdomen. Eso se valora." (G-10, I-47) | Pendiente |
-| RC-15 | PDF p. 2, pilar 3 | "La faja abdominal se activa en un orden; un mal reclutamiento se relaciona con incontinencia y dolor lumbar" | La idea de un **orden fijo** de activación (por ejemplo, el transverso antes que los demás) es **debatida**. **No** se presenta como regla universal | (fuente pendiente: revisiones sobre la teoría de activación anticipada del transverso) | Solo se usa el mensaje general: "no aguantes la respiración al hacer fuerza; suelta el aire" (A-03, I-36) | Pendiente |
-| RC-16 | PDF p. 2, pilar 4 | "La camilla no es la vida": importa la función en la vida diaria | Coherente con una práctica centrada en la persona | — | A-05, G-YT ("lo más importante es cómo funciona tu cuerpo en tu vida diaria") | Pendiente |
-| RC-17 | PDF p. 2 pilar 5; p. 3 | Pruebas de competencia abdominal, prueba de los rectos, transmisión de presiones, descenso del periné | Son **pruebas clínicas en consulta**. No son adecuadas para que el público se autoevalúe | — | **No** se crean contenidos de "haz esta prueba en casa". Solo: "en una valoración se observan cosas como…" | Pendiente |
-| RC-18 | G-12 | El dolor no siempre significa daño | Consistente con la definición de dolor de la IASP (2020) y con la educación en dolor | (fuente primaria pendiente: Raja et al. 2020) | Texto de G-12 **con señales de alarma** | Pendiente |
-| RC-19 | Lista de Angélica: anteversión pélvica | Los cambios posturales del embarazo causan dolor | Los cambios de curvatura varían entre mujeres; la relación postura → dolor es inconsistente | (fuente pendiente) | "La postura cambia de forma distinta en cada mujer; el dolor tiene varios factores" (I-05) | Pendiente |
-| RC-20 | I-37 | Ejercicio en el embarazo | Beneficioso para la mayoría, salvo contraindicaciones | ACOG Committee Opinion 804 | "La mayoría puede y debe moverse, salvo que su médico indique lo contrario." | Pendiente |
-| RC-21 | I-13, I-54, I-55 (bebés) | Portabebés con cadera "en M"; tiempo boca abajo supervisado | Son recomendaciones pediátricas generales. **Su experiencia pediátrica está por confirmar** | (fuentes pendientes: AAP, International Hip Dysplasia Institute) | Solo en términos generales y **dirigido al adulto**. Ante dudas del desarrollo → pediatra | **Bloqueado** hasta la pregunta 2 |
+| RC-22 | EP-01 | La progesterona relaja el músculo liso; los estrógenos aumentan el volumen de sangre y de líquidos | Simplificación didáctica aceptable | Fisiología obstétrica general (fuente primaria pendiente); Verghese 2015 (progesterona y tránsito) | Texto de G.2 EP-01 | Pendiente |
+| RC-10 | EP-02 | Relaxina ≠ causa directa del dolor | Revisión sistemática: sin asociación consistente | Aldabe et al. 2012, Eur Spine J | Texto de EP-02 | Pendiente |
+| RC-23 | EP-03, EP-08 | El diafragma asciende, el tórax se ensancha, la ventilación aumenta; la falta de aire es frecuente | Cifras exactas no incluidas a propósito | Fisiología respiratoria del embarazo (fuente pendiente) | Con señales de alarma (falta de aire repentina + dolor de pecho) | Pendiente |
+| RC-08 | EP-04 | La línea alba se estira; la separación es muy frecuente al final del embarazo | Prevalencia variable según el método | Sperstad 2016 (≈33 % en la semana 21; ≈60 % a las 6 semanas del posparto) | "Muy frecuente, sobre todo al final" | Pendiente |
+| RC-14 | EP-04 | Importa la función, no solo la distancia; el giro en bloque para levantarse | Recomendación práctica común | PDF CALP p. 2, pilar 2 (idea educativa); fuente pendiente | "Un truco" | Pendiente |
+| RC-12 | EP-05 | Entrenar el suelo pélvico en el embarazo | Bien respaldado | NICE NG210 (entrenamiento del suelo pélvico en el embarazo); Cochrane (Dumoulin 2018) | Texto de EP-05 | Pendiente |
+| RC-19 | EP-06 | Anteversión y cambio de la curva lumbar; no siempre causan dolor | La relación postura → dolor es inconsistente | Fuente pendiente | "En cada mujer es distinto, y no siempre duele" | Pendiente |
+| RC-24 | EP-07 | El centro de gravedad se desplaza y el equilibrio cambia | Existe riesgo de caídas en el embarazo; no se dan cifras | Fuente pendiente | Con "si te caes, avisa a tu médico" | Pendiente |
+| RC-25 | EP-09 | La relajación del esfínter esofágico inferior y la presión del útero causan agruras | Aceptado | Fuente pendiente | Antiácidos → consultar al médico | Pendiente |
+| RC-03 | EP-10 | El banquito reduce el esfuerzo al evacuar | Estudio pequeño en adultos sanos, no en embarazadas | Modi 2019; Verghese 2015 | "A muchas les ayuda" + señales para consultar | Pendiente |
+| RC-26 | EP-11 | Las hemorroides son más frecuentes por la presión y el estreñimiento | Aceptado | Fuente pendiente | Sangrado → médico | Pendiente |
+| RC-27 | EP-12 | Los riñones filtran más y el útero comprime la vejiga | Aceptado | Fuente pendiente | "No dejes el agua"; ardor o fiebre → médico | Pendiente |
+| RC-11 | YT-01, C-07 | Señales de alarma en el embarazo | Lista estándar; **validar con Angélica y su práctica local** | Guías obstétricas (fuente pendiente) | Lista de C-07 | Pendiente |
+| RC-20 | I-13 | El ejercicio en el embarazo es beneficioso salvo contraindicación | Bien respaldado | ACOG Committee Opinion 804 | "La mayoría se beneficia" | Pendiente |
 
-## I.2 Criterios de atención por tema (para incluir en los guiones)
+## I.2 Otras áreas
 
-- **Embarazo:** sangrado, pérdida de líquido, contracciones antes de tiempo, dolor abdominal fuerte, dolor de cabeza con visión borrosa, hinchazón súbita, fiebre o menos movimientos del bebé → **urgencias**.
-- **Muñeca y mano:** hormigueo persistente o nocturno, pérdida de fuerza, inflamación visible o dolor que no mejora en 1–2 semanas → valoración.
-- **Espalda:** dolor tras una caída, fiebre, pérdida de fuerza en las piernas, adormecimiento en la zona de la silla de montar, pérdida del control de la orina o las heces → **urgencias**.
-- **Piso pélvico:** sangrado fuera de la regla, bulto que sale, dolor intenso, retención de orina → médico. Escapes, peso o dolor en las relaciones → valoración (no urgente).
-- **Menopausia:** sangrado después de la menopausia → médico.
+| RC | Tema | Nota | Estado |
+|---|---|---|---|
+| RC-28 | **Bebé** (gases, plagiocefalia, boca abajo, hitos, orientación óptica) | **Bloqueado hasta confirmar su formación pediátrica** (pregunta 2). Contenido dirigido a cuidadores; sin manipulaciones ni rutinas universales; ante dudas del desarrollo, al pediatra. Fuentes a revisar: AAP (tiempo boca abajo supervisado), guías de plagiocefalia posicional | Bloqueado |
+| RC-29 | **Mastitis** | El abordaje cambió en los últimos años: protocolos recientes de medicina de la lactancia desaconsejan el masaje profundo [VERIFICAR: ABM Clinical Protocol #36, 2022]. Se coordina con médico o asesora de lactancia | Pendiente |
+| RC-30 | **Lactancia: agarre y tensión** | La fisioterapia aborda postura y tensión; el agarre se trabaja con una asesora de lactancia certificada | Pendiente |
+| RC-13 a RC-17 | Ideas del PDF del CALP (p. 2–3) | Se usan como ideas educativas con lenguaje propio ("tu tronco es una lata"). **No** se presenta un "orden de activación" universal ni pruebas clínicas para hacer en casa | Pendiente |
+| RC-01 a RC-09, RC-18, RC-21 | Afirmaciones de los videos V1–V8 | Registro histórico (versión 1 en git). Los videos no se publican; si sus temas vuelven, se usa la redacción corregida | Archivo |
 
-## I.3 Límites del contenido
-- **Educación, valoración e intervención son distintas.** El contenido educa. La valoración es individual. La intervención (ejercicios específicos, terapia manual) se decide en consulta.
-- **Contenido sobre bebés:** dirigido a **cuidadores adultos**. Sin manipulaciones, "masajes que curan" ni rutinas universales para bebés desconocidos. Ante dudas del desarrollo, al pediatra.
-- **Dudas individuales en sesiones grupales:** "Esa pregunta es de tu caso y merece tiempo; escríbeme en privado y lo vemos." Nunca se pide que alguien describa síntomas íntimos en un chat público.
-- **Material de terceros (PDF del CALP, cursos, carteles):** se usan las ideas para formular preguntas y se contrastan con fuentes. **No** se reproducen diapositivas, textos ni logotipos, y no se venden como propios.
+## I.3 Límites
+- **Educación ≠ valoración ≠ tratamiento.** Los videos y talleres educan; lo individual va a consulta.
+- **Sin diagnósticos** por redes. En talleres y directos, las dudas personales se atienden en privado.
+- **Material de terceros** (PDF del CALP, cursos, carteles): solo como inspiración, con fuentes propias. No se copian diapositivas, textos ni logotipos.
 
-## I.4 Protocolo de respuesta a comentarios y mensajes
+## I.4 Protocolo de comentarios
 
-| Tipo | Qué hacer | Ejemplo de respuesta |
-|---|---|---|
-| Pregunta general | Responder en 1–2 líneas o convertirla en video | "¡Buenísima pregunta! La respondo en un video esta semana 🙌" |
-| Solicitud de diagnóstico ("tengo X, ¿qué es?") | No diagnosticar; derivar a privado o a consulta | "Para saber qué es, necesito valorarte; por aquí no sería responsable decírtelo. Escríbeme por WhatsApp y te explico cómo." |
-| Inquietud que requiere atención (señales de alarma) | Recomendar atención inmediata **sin** pedir detalles | "Eso que describes merece que te revise un médico hoy. Por favor acude a urgencias o llama a tu médico." |
-| Crítica | Agradecer; aclarar si hay un error; corregir si procede | "Gracias por el comentario. Tienes razón en que ___; lo aclaro en el pie." |
-| Desinformación de terceros | Responder con respeto y con la fuente; no discutir sin fin | "Entiendo por qué se dice eso; lo que muestran los estudios es ___ (fuente en mi perfil)." |
-| Ofensas o acoso | Ocultar o eliminar, bloquear si se repite | — |
+| Tipo | Respuesta |
+|---|---|
+| Pregunta general | Respuesta breve o convertirla en video ("¡La respondo esta semana!") |
+| Pide diagnóstico | "Para saberlo necesito valorarte; escríbeme por WhatsApp y te explico cómo." |
+| Señal de alarma | "Eso merece que te revise un médico hoy. Acude a urgencias o llama a tu médico." (sin pedir detalles) |
+| Crítica | Agradecer, aclarar y corregir si procede |
+| Desinformación | Respuesta respetuosa con la fuente |
+| Acoso | Ocultar o bloquear |
 
-**Límites de atención por mensajes:** responder en dos bloques al día. Primera respuesta con plantilla (coordinación) y respuestas clínicas generales (Angélica), máximo 20 min al día. **No** se piden fotos íntimas, estudios ni datos sensibles por redes. Solo se ofrece valoración.
+- Respuestas en 2 bloques al día.
+- Las dudas clínicas las responde Angélica (máximo 20 min al día).
+- **Nunca** se piden fotos íntimas ni estudios por redes.
 
-## I.5 Consentimiento, privacidad y transparencia
-- **Pacientes:** no se graban ni se muestran sin consentimiento **escrito**, específico (qué, dónde, cuánto tiempo) y revocable. En el mes 1 **no hay** testimonios.
-- **Familia y bebé:** no aparecen salvo decisión expresa de Angélica (S8).
-- **Asistentes a directos y talleres:** no se usan su imagen, voz, nombre ni preguntas en piezas públicas sin su permiso. Las grabaciones de talleres pagados se tratan como privadas.
-- **Datos personales:** se recogen los mínimos (nombre, WhatsApp, interés), con consentimiento y aviso de privacidad. **En México**, la protección de datos personales en posesión de particulares se rige por la ley federal vigente (reformada en 2025) [POR CONFIRMAR con asesoría legal]. Los datos de salud se consideran **sensibles** y no se recogen en formularios de marketing.
-- **Publicidad de servicios de salud:** en México puede haber requisitos de la autoridad sanitaria (COFEPRIS) y de la ley general de salud para anunciar servicios. Hay que mostrar la cédula profesional [POR CONFIRMAR con asesoría; esto **no** es asesoría legal].
-- **Patrocinios o regalos:** si en el futuro los hay, se declaran de forma visible ("colaboración pagada con ___") con la etiqueta de la plataforma. No se recomiendan productos por pago sin respaldo clínico.
-- **Salud sexual:** lenguaje educativo y respetuoso, según las políticas de cada plataforma. Sin trucos para evadir la moderación. Si una pieza se restringe, se revisa el lenguaje y la miniatura, no se disfraza.
+## I.5 Privacidad y consentimiento
+- **Vida personal y bebé:** solo lo que Angélica autorice en la pregunta 4. Si aparece el bebé, que sea de forma sutil y profesional (sin rostro si lo prefiere) y nunca en situaciones vulnerables.
+- **Pacientes:** nunca sin consentimiento escrito, específico y revocable. En el mes 1 no hay testimonios.
+- **Asistentes a directos y talleres:** sin su imagen, voz ni preguntas en piezas públicas, salvo permiso.
+- **Datos:** mínimos y con consentimiento; los de salud son **sensibles** y no se recogen en formularios de marketing. Ley de datos personales de México, reforma de 2025 [POR CONFIRMAR con asesoría].
+- **Publicidad de servicios de salud:** requisitos de la COFEPRIS y la Ley General de Salud [POR CONFIRMAR con asesoría; esto no es asesoría legal]. Mostrar la cédula.
+- **Patrocinios futuros:** siempre declarados.
