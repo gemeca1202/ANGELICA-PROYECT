@@ -97,3 +97,40 @@ Búsquedas web del 25/09/2026: no aparecieron canales ni cuentas con "Fisio por 
 3. Angélica reserva el usuario en todas las redes **el mismo día**, para que nadie lo ocupe entre una red y otra, y el dominio si se decide.
 4. El equipo diseña el logotipo y el banner (paleta y línea de la presentación).
 5. Se actualizan la presentación y el plan (bloques A, B y C).
+
+---
+
+## 7. Evaluación de "Fisio de Mujer a Mujer · La fisioterapia que entiende a las mujeres" (propuesta del coordinador, 25/09/2026)
+
+| Criterio | Evaluación |
+|---|---|
+| Emoción y cercanía | **5**: transmite empatía entre iguales y encaja con el enfoque mixto (la especialista que también lo vivió) |
+| Claridad del público | **5**: deja claro que es para mujeres |
+| Diferencial | **2**: "de mujer a mujer" es una frase muy usada. Ya existe el podcast mexicano **"De Mujer A Mujer"** (Carolina Cadena), que trata hormonas y menstruación, un tema muy cercano: riesgo de confusión y de conflicto de marca. También existen cuentas como "La Fisio de las Mujeres", "FisioFit Mujer" y "Fisio Entre Nosotras" |
+| Amplitud | 3: cierra la puerta a otros públicos (en su mapa de temas está el bebé; en el futuro, deporte o espalda) |
+| Usuario | 3: @fisiodemujeramujer tiene 18 caracteres; se entiende, pero es largo de dictar |
+| Traducción | 4: *Woman to Woman Physio* |
+| Sistema de series | 3: no se une con "Panza por dentro" ni con el traje |
+
+**Conclusión:** como **nombre** es menos distintivo y tiene riesgo de conflicto. Como **promesa** es excelente.
+
+### Propuesta de síntesis (recomendada)
+> # Angélica García | Fisio por Dentro
+> **De mujer a mujer: la fisioterapia que entiende a las mujeres.**
+
+- **"Fisio por Dentro"** es el nombre: distintivo, propio (traje y 3D) y ordena las series (Panza por dentro, Posparto por dentro…).
+- **"De mujer a mujer: la fisioterapia que entiende a las mujeres"** es la frase de posicionamiento: la emoción y el público van en la biografía, el banner y el cierre de los videos.
+- El lema "Entiende tu cuerpo. Muévete mejor." sigue vigente como cierre.
+
+**Cómo se ve:**
+- **YouTube:** "Angélica García | Fisio por Dentro" · banner: "De mujer a mujer: la fisioterapia que entiende a las mujeres".
+- **Biografía de Instagram:**
+  ```
+  Fisio por Dentro 🦴 De mujer a mujer
+  La fisioterapia que entiende a las mujeres
+  Embarazo · posparto · lactancia · suelo pélvico
+  ```
+- **Cierre de los videos:** "Soy Angélica García, y esto es Fisio por Dentro: de mujer a mujer."
+
+### Si se prefiere que el nombre sea "De Mujer a Mujer"
+Para reducir el riesgo, hay que **acompañarlo siempre de "Fisio"** y de su nombre: "Angélica García | Fisio de Mujer a Mujer", con usuario @fisiodemujeramujer. Antes de invertir en diseño, conviene revisar en el registro de marcas de México (IMPI, base MARCia) si "De Mujer a Mujer" está registrada en servicios de salud o educación [POR CONFIRMAR; esto no es asesoría legal].
