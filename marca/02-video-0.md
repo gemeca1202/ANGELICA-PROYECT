@@ -17,7 +17,7 @@
 >
 > **[0:35 · De dónde viene]** *(Ilustración de línea de una hamaca entre dos árboles.)* "Hamaca" es una palabra que nació aquí, en nuestro continente. Viene del taíno, una lengua indígena del Caribe. Cuando llegó a Europa, el mundo la adoptó; en inglés se dice *hammock*, y viene de nuestra palabra. Es una palabra latina que el mundo hizo suya.
 >
-> **[1:05 · Tu hamaca por dentro]** *(Cambio: Angélica con el traje de músculos. Animación 3D: la hamaca se transforma en la pelvis y en el suelo pélvico.)* En fisioterapia de la mujer usamos esa misma imagen para explicar el **suelo pélvico**: un conjunto de músculos y ligamentos que va del pubis al coxis, como una hamaca, y que sostiene tu vejiga, tu útero y tu intestino.
+> **[1:05 · Tu hamaca por dentro]** *(Angélica de pie, con el traje, señala su pelvis. Animación 3D: la hamaca real se transforma en la pelvis y el suelo pélvico.)* En fisioterapia de la mujer usamos esa misma imagen para explicar el **suelo pélvico**: un conjunto de músculos y ligamentos que va del pubis al coxis, como una hamaca, y que sostiene tu vejiga, tu útero y tu intestino.
 > Tu hamaca hace más de lo que crees: te **sostiene**, **controla** para que no se escape la pipí, **participa en tu vida sexual** y **trabaja en equipo** con tu respiración y tu abdomen.
 > En el embarazo carga a tu bebé. En el parto se estira. En la menopausia cambia. Y casi nadie nos la presentó.
 > *(Pausa.)* Es una metáfora, claro: tu cuerpo es más complejo que una hamaca. Pero entenderla así lo cambia todo.
