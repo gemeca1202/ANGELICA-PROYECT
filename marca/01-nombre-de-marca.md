@@ -216,3 +216,18 @@ Para reducir el riesgo, hay que **acompañarlo siempre de "Fisio"** y de su nomb
 - **Serie:** ¿Por qué me duele aquí? · T1 Panza por dentro.
 - **Logotipo:** una curva que es hamaca, suelo pélvico entre dos caderas y sonrisa (boceto en `marca/concepto/hamaca_1.png`).
 - **Por verificar:** IMPI y disponibilidad de @hamaca.fisio / @hamacafisio y dominios.
+
+---
+
+## 11. Las tres opciones que se presentan a Angélica
+Presentación: `marca/opciones/Opciones_de_marca.pdf` (5 láminas).
+
+| # | Nombre | Territorio | Frase | Usuario |
+|---|---|---|---|---|
+| 1 | **HAMACA** · Fisioterapia de la mujer | Sostener | La fisioterapia que sostiene a las mujeres | @hamaca.fisio |
+| 2 | **ADENTRO** · Fisioterapia de la mujer | Revelar (traje, 3D, "¿por qué me duele aquí?") | Lo que sientes afuera tiene explicación adentro | @adentro.fisio |
+| 3 | **REBOZO** · Fisioterapia de la mujer | Raíz mexicana (símbolo de la mujer, cargar, acompañar) | La fisioterapia que te acompaña en cada etapa | @rebozo.fisio |
+
+**Fuentes sobre el rebozo:** https://mujermexico.com/noticias/historia-del-rebozo-mexicano-simbolo-identidad/ · https://oem.com.mx/elsoldelcentro/cultura/por-que-las-mujeres-mexicanas-usaban-rebozo-la-prenda-servia-para-cubrirse-cargar-bebes-y-hasta-transportar-comida-30158480
+
+**Búsquedas web del 25/09/2026:** no aparecieron marcas de fisioterapia llamadas "Adentro" ni "Rebozo". Falta verificar el IMPI, los usuarios y los dominios de las tres.
