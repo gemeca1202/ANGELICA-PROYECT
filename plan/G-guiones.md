@@ -6,6 +6,9 @@
 
 ---
 
+## G.0 Video 0 (lanzamiento)
+Guion completo, en versión YouTube (~4 min) y vertical (~60 s), en [`../marca/02-video-0.md`](../marca/02-video-0.md). Está pensado para la marca HAMACA e incluye adaptaciones para ADENTRO y REBOZO. Se publica el D1 como video fijado n.º 1.
+
 ## G.1 Videos fijados (JP, Jornada 1)
 
 ### G-01 · Quién soy (~40 s)

@@ -109,7 +109,7 @@
 | Día | Pieza (video corto) | Área / serie | Obj. | Guion | Origen | Llamada a la acción | Además |
 |---|---|---|---|---|---|---|---|
 | D-7…D0 | — | Preparación | — | — | — | — | Cuentas, plantillas, biblioteca 3D, J1, encargos de la semana 0, guía PANZA |
-| D1 | **P-01** Quién soy (fijado) | Marca | C | G-01 | J1 | Seguir | HIS-01 |
+| D1 | **P-00 · Video 0** "¿Por qué mi marca se llama HAMACA?" (vertical, fijado 1) + P-01 Quién soy | Marca | C | `marca/02-video-0.md` + G-01 | J1 | Seguir | **YT-00** versión larga del Video 0 · HIS-01 |
 | D2 | **P-02** EP-01 hormonas | T1 | D | G.2 | CEL | PANZA | — |
 | D3 | **P-03** Qué encontrarás (fijado) | Marca | Co | G-02 | J1 | Comentar | **C-01** 12 molestias |
 | D4 | **P-04** EP-02 relaxina | T1 | C | G.2 | CEL | Guardar | HIS-02 |
