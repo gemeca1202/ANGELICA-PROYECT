@@ -22,7 +22,7 @@ Fuente: 13 notas de voz transcritas con Whisper local, más su CV.
 ## Formación (del CV; solo datos profesionales)
 - **Licenciada en Terapia Física**, Universidad Autónoma Benito Juárez de Oaxaca, Facultad de Medicina y Cirugía (2011–2015). Título otorgado en 2016. **Primer lugar de aprovechamiento** de su generación.
 - **Cédula profesional:** 9853107. Es un dato público; se usa en la biografía.
-- **Experiencia:** servicio social en el Hospital General de Zona n.º 1 del IMSS (2014–2015); prácticas en el Hospital de la Niñez Oaxaqueña, el CREE, el Hospital de Alta Especialidad y Unidades Básicas de Rehabilitación. Ha trabajado en una **Unidad de Neuroterapia Pediátrica** y en el **Centro Especializado en Rehabilitación Física "CORE Oaxaca"**.
+- **Experiencia:** servicio social en el Hospital General de Zona n.º 1 del IMSS (2014–2015); prácticas en el Hospital de la Niñez Oaxaqueña, el CREE, el Hospital de Alta Especialidad y Unidades Básicas de Rehabilitación. **Fisioterapeuta en CORE Oaxaca desde 2016 (10 años)**. Neuroterapia Pediátrica: aparece como experiencia profesional en un CV y como rotación de estudiante en el otro; **por confirmar** (ver [02-cv-comparacion.md](02-cv-comparacion.md)).
 - **Pediatría:** ⭐ **Terapia Vojta**, curso de 320 h (International Vojta Society / Asociación Española Vojta / Universidad de Salamanca, 2019–2022) + actualización (Guadalajara, 2025). Según el certificado: *"entitled to treat babies, children, adolescents and adults applying the Vojta Method at the request of a medical practitioner"* (habilita a tratar con el Método Vojta cuando lo indica un médico).
 - **Suelo pélvico, embarazo y posparto:**
   - Low Pressure Fitness / Hipopresivos, niveles 1 y 2 (2016).
@@ -42,8 +42,8 @@ Fuente: 13 notas de voz transcritas con Whisper local, más su CV.
 **No se destacan** en la marca los cursos estéticos (electrolipólisis, mesoterapia), para no desviar el posicionamiento.
 
 ## Pendientes derivados
-1. Confirmar la dirección exacta del consultorio y si el consultorio es la marca **CORE Oaxaca** (la marca digital puede decir "Atiendo en CORE Oaxaca").
-2. ¿Quién es **"Serena"**? (referente de audiencia y modelo de cursos).
+1. ✅ El consultorio es **CORE Oaxaca** (confirmado por el coordinador). Falta confirmar el número exacto de la dirección.
+2. ✅ "Serena" es **Serena Chávez, @lactancia.serena** (Lactancia Serena): ver la sección 13 de `../marca/01-nombre-de-marca.md`.
 3. Precio de la consulta en línea (¿también $500?).
-4. Elegir la marca (HAMACA / ADENTRO / REBOZO) y el correo de la marca.
+4. ✅ **HAMACA** es la propuesta fuerte (coordinador, 26/09/2026). Falta el visto bueno de Angélica y definir el correo de la marca.
 5. Contactar a Aurora Avendaño (ver [`../colaboraciones/aurora-avendano.md`](../colaboraciones/aurora-avendano.md)).

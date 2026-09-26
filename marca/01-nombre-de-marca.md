@@ -246,3 +246,23 @@ Según los resultados de Google que compartió el coordinador, en fisioterapia d
 - 💡 **Idea de contenido:** un video de lanzamiento: "¿Por qué mi marca se llama HAMACA?", que explique la metáfora del suelo pélvico y el origen taíno de la palabra.
 
 La lámina 2 de `marca/opciones/Opciones_de_marca.pdf` se actualizó con este matiz.
+
+---
+
+## 13. Decisión y referente (26/09/2026)
+
+**Decisión del coordinador:** **HAMACA · Fisioterapia de la mujer** se presenta a Angélica como **propuesta fuerte**. ADENTRO y REBOZO quedan como alternativas en la misma presentación.
+
+**Relación con el consultorio:** **CORE Oaxaca** es el consultorio físico donde atiende desde 2016. Se mantienen separados:
+- **HAMACA** = marca digital (contenido, comunidad, talleres y cursos en línea para toda Latinoamérica).
+- **CORE Oaxaca** = consulta presencial. En las biografías: "Consulta presencial en CORE Oaxaca · en línea para toda Latinoamérica".
+
+**El referente de Angélica: "Serena"** = **Serena Chávez, @lactancia.serena** (https://lactanciaserena.com/; el sitio no se pudo abrir desde este entorno).
+- Según resultados de búsqueda del 26/09/2026: ~**512 mil** seguidores en Instagram y ~**1.3 M** en TikTok. Es consultora de lactancia IBCLC. Ofrece consultas presenciales y en línea, cursos para familias y documentos. Tiene la frase "Confía en tu cuerpo y disfruta tu lactancia".
+  - Fuentes: https://www.instagram.com/lactancia.serena/ · https://www.tiktok.com/@lactancia.serena · https://www.spreaker.com/episode/caso-de-exito-como-asesora-de-lactancia-materna-serena-chavez-lactancia-serena--54553564
+- **Lecciones para HAMACA:**
+  1. **Tema + palabra con emoción** ("Lactancia **Serena**"). HAMACA sigue la misma lógica: una palabra que se siente.
+  2. **Una promesa sencilla** ("Confía en tu cuerpo") ↔ "La fisioterapia que sostiene a las mujeres".
+  3. **Escalera de ofertas:** contenido gratuito masivo → consultas en línea → cursos para familias. Es justo el modelo que Angélica quiere ("dos cursos al mes").
+  4. **TikTok pesa mucho** en su crecimiento (1.3 M frente a 512 mil). Hay que reforzar TikTok como canal de descubrimiento.
+- **Complementariedad:** Serena = lactancia (IBCLC); Angélica = cuerpo de la mamá (suelo pélvico, posturas al amamantar, tensión) + bebé (Vojta). A futuro, una **colaboración** sería natural. No se contacta sin aprobación.
