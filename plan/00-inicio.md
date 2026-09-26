@@ -62,19 +62,31 @@ Documento de trabajo para el equipo. Todo lo clínico y lo comercial queda sujet
 | Videos existentes | **No se publican ni se editan.** Solo sirven de diagnóstico: estilo, fortalezas y temas (bloque E) |
 | Modelos 3D | Se crean **modelos y gráficos 3D propios** en diseño y posproducción; los de la TV del consultorio no se usan [DATO] |
 
+## 1b. Respuestas de Angélica (25/09/2026)
+Ver [01-respuestas-angelica.md](01-respuestas-angelica.md). Resumen:
+- **Oaxaca, México**; consulta presencial de **$500**; también atiende en línea.
+- **Formación:** Lic. en Terapia Física (UABJO), cédula 9853107, **Vojta (320 h)**, hipopresivos, 5P Logsurf.
+- **Redes:** Facebook y YouTube vacíos (se reutilizan); no tiene Instagram ni TikTok.
+- **Privacidad:** comparte de forma sutil y quiere construir **una comunidad, "una tribu"**.
+- **Tiempo:** 15–30 min al día con el celular; jornadas **martes a jueves**.
+- **Talleres:** 5 de suelo pélvico con 10–40 personas (precio de cartel $700, nunca cobrado) + 1 para pediatras.
+- **Meta:** **2 cursos al mes**, con 30–80 personas por evento.
+- **Enfoque:** mixto. **Cierre:** "espero te ayude".
+- **Colega:** Aurora Avendaño, nutrióloga.
+
 ## 2. Supuestos provisionales (editables)
 
 | # | Supuesto | Si resulta falso |
 |---|---|---|
-| S1 | País: México; hora de referencia CDMX [HIPÓTESIS, reforzada por el cartel de la SOMEFIPP] | Se revisan comisiones y requisitos legales |
+| S1 | ✅ **CONFIRMADO:** Oaxaca, México (hora del centro) | Se revisan comisiones y requisitos legales |
 | S2 | No hay cuentas profesionales con audiencia relevante | Se auditan y se reutilizan (C.2) |
-| S3 | Angélica: 20–30 min al día con el celular, 6 días a la semana + 2 h/semana de revisión + ~2 h/semana de sesiones con el equipo + 1 h/semana de directo = **~7.5 h/semana** | Se pasa a la versión ligera (H.6) |
-| S4 | **Jornada del equipo cada 2 semanas** (4 h) en el consultorio de Angélica, para videos largos, fijados y fotos | Grabación remota guiada |
+| S3 | ✅ Angélica: **15–30 min al día** con el celular (confirmado), 6 días a la semana + 2 h/semana de revisión + ~2 h/semana de sesiones con el equipo + 1 h/semana de directo = **~7.5 h/semana** | Se pasa a la versión ligera (H.6) |
+| S4 | ✅ Jornadas **martes, miércoles o jueves, de día** (luz del ventanal) en su consultorio. **Nunca lunes por la noche, sábado ni domingo** | Grabación remota guiada |
 | S5 | Horas del equipo necesarias: **~49 h/semana** en el mes 1 (incluye crear la biblioteca 3D) y ~45 h/semana después (H.6) | Se reduce a 2 videos largos al mes o se reutilizan más gráficos |
 | S6 | Angélica tiene cuenta de Google (Drive, Formularios, Meet) | Zoom Basic o Jitsi |
 | S7 | Taller piloto en la **semana 5–6** | Se ajusta con la demanda |
-| S8 | Privacidad: por defecto no se muestran ni su bebé ni su familia hasta que responda la pregunta 4 | Se activan los momentos personales (enfoque mixto) |
-| S9 | Los temas de **bebé** se preparan, pero no se publican hasta confirmar su formación pediátrica (pregunta 2) | Se activa la serie de bebé |
+| S8 | ✅ Comparte momentos personales y a su bebé **de forma sutil** (confirmado) | Se activan los momentos personales (enfoque mixto) |
+| S9 | ✅ **Línea de bebé activada:** tiene formación Vojta (320 h) y experiencia en neuroterapia pediátrica. Se publica con los límites de RC-28 | Se activa la serie de bebé |
 
 ## 3. Las 8 preguntas (idénticas a las de la presentación)
 

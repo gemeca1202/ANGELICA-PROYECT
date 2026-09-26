@@ -66,10 +66,26 @@ Videos (confianza) → Directos gratis (medir interés) → Taller pagado (grupo
 
 **Atribución:** palabra clave + "¿cómo nos conociste?" + etiqueta de WhatsApp + hoja de contactos (fecha, canal, palabra, pieza P-##, etapa, compra). **Sin datos clínicos.**
 
+## D.5b Datos reales de Angélica (25/09/2026)
+- Consulta: **$500**.
+- Talleres anteriores: 5 de suelo pélvico con **10–40 asistentes (promedio ~20)**; **precio de cartel $700, nunca cobrado**.
+- **Meta:** "dos cursos al mes" como ingreso principal, con **30–80 personas por evento** al inicio y **70–100** más adelante.
+- **Cobro:** efectivo, transferencia y terminal.
+
+**Escenario de la meta (mes 6+, hipótesis de planificación):** 2 cursos o talleres al mes × `N` personas × `P`.
+
+| | Inicio | Meta | Meta "pro" |
+|---|---|---|---|
+| Personas por evento | 20 (su promedio real) | 40 | 80 |
+| Precio | $350 | $450 | $500 |
+| Facturación mensual (2 eventos) | 14,000 | 36,000 | 80,000 |
+
+El precio de cartel de $700 funciona como **ancla**: "precio regular $700, preventa $450". Hay que definirlo con ella. Las cifras no son pronósticos.
+
 ## D.6 Escenarios del mes 3 (días 61–90)
 
 **Variables:**
-- `P_v`: precio de la valoración [POR CONFIRMAR]; ilustrativo: 600.
+- `P_v`: precio de la consulta = **$500** (confirmado). La tabla siguiente se calculó con 600; en la próxima revisión se actualiza con 500.
 - `C`: consultas atribuidas, limitadas por la capacidad.
 - `P_t`: precio del taller [POR CONFIRMAR con su historial]; ilustrativo: 290.
 - `N_t`: participantes por edición.
