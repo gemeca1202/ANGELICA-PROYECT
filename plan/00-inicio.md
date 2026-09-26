@@ -79,7 +79,7 @@ Ver [01-respuestas-angelica.md](01-respuestas-angelica.md). Resumen:
 | # | Supuesto | Si resulta falso |
 |---|---|---|
 | S1 | ✅ **CONFIRMADO:** Oaxaca, México (hora del centro) | Se revisan comisiones y requisitos legales |
-| S2 | No hay cuentas profesionales con audiencia relevante | Se auditan y se reutilizan (C.2) |
+| S2 | ✅ **Todo nuevo:** no hay acceso a las cuentas anteriores, que además no tienen audiencia | Guía de alta: `03-alta-de-cuentas.md` |
 | S3 | ✅ Angélica: **15–30 min al día** con el celular (confirmado), 6 días a la semana + 2 h/semana de revisión + ~2 h/semana de sesiones con el equipo + 1 h/semana de directo = **~7.5 h/semana** | Se pasa a la versión ligera (H.6) |
 | S4 | ✅ Jornadas **martes, miércoles o jueves, de día** (luz del ventanal) en su consultorio. **Nunca lunes por la noche, sábado ni domingo** | Grabación remota guiada |
 | S5 | Horas del equipo necesarias: **~49 h/semana** en el mes 1 (incluye crear la biblioteca 3D) y ~45 h/semana después (H.6) | Se reduce a 2 videos largos al mes o se reutilizan más gráficos |
@@ -105,7 +105,7 @@ Ver [01-respuestas-angelica.md](01-respuestas-angelica.md). Resumen:
 |---|---|---|---|
 | 1 | Enviar la presentación v5 y el mensaje de acompañamiento | Coordinación | 5 min |
 | 2 | Recibir y registrar las respuestas (audio → transcripción → este archivo) | Coordinación | 30 min |
-| 3 | Auditar las cuentas y reservar el usuario en todas las redes (C.2; **sin pedir contraseñas**) | Angélica guiada | 1 h |
+| 3 | Abrir las cuentas nuevas con el llavero de seguridad (`03-alta-de-cuentas.md`; **sin pedir contraseñas**) | Angélica guiada | 2 h |
 | 4 | Sesión privada con Angélica para revisar el registro clínico de la temporada 1 (bloque I) | Angélica + coordinación | 60–90 min |
 | 5 | Empezar la **biblioteca 3D**: pelvis, abdomen, diafragma, útero y suelo pélvico (H.7) | Diseño 3D | 12 h en la semana 0 |
 | 6 | Crear plantillas: subtítulos, portadas de la serie, carruseles y cierres (B.4) | Diseño | 6 h |

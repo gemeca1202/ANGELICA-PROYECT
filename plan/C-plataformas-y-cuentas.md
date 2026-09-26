@@ -18,7 +18,7 @@
 
 > Angélica ejecuta y es **dueña** de todo. El equipo prepara textos e imágenes y accede **por roles**, nunca con contraseñas. Los menús de las aplicaciones cambian; donde dice [VERIFICAR MENÚ], hay que confirmarlo en la aplicación.
 
-1. **Auditoría:** buscar cuentas existentes y recuperar accesos; reutilizar antes que duplicar. Tabla de control en Google Sheets: plataforma, usuario, correo de registro, verificación en 2 pasos, roles. **Sin contraseñas.**
+1. **Cuentas nuevas (decisión del 26/09/2026):** se crea todo nuevo, porque no hay acceso a las cuentas anteriores. Guía completa de la sesión en [03-alta-de-cuentas.md](03-alta-de-cuentas.md). Tabla de control en Google Sheets: plataforma, usuario, correo de registro, verificación en 2 pasos, roles. **Sin contraseñas.**
 2. **Instagram:** cuenta profesional (Creador o Empresa) [VERIFICAR MENÚ]; nombre, usuario, foto (de la Jornada 1), biografía (B.6), categoría, botón de WhatsApp; enlaces a WhatsApp y al formulario; destacadas: Empieza aquí · Panza por dentro · Posparto · Lactancia · Tu hamaca · Talleres; verificación en 2 pasos.
 3. **Facebook:** **página** con roles (Angélica como administradora y la coordinación con acceso parcial); vinculada a Instagram en Meta Business Suite; programar desde ahí.
 4. **TikTok:** cuenta personal (requisito de Creator Rewards) [VERIFICAR]; biografía de 80 caracteres o menos; verificación en 2 pasos. Publica Angélica o se programa desde TikTok Studio en la web [VERIFICAR].
