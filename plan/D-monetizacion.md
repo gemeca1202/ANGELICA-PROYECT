@@ -85,12 +85,12 @@ El precio de cartel de $700 funciona como **ancla**: "precio regular $700, preve
 ## D.6 Escenarios del mes 3 (días 61–90)
 
 **Variables:**
-- `P_v`: precio de la consulta = **$500** (confirmado). La tabla siguiente se calculó con 600; en la próxima revisión se actualiza con 500.
+- `P_v`: precio de la consulta = **$500** (confirmado; tabla recalculada el 08/10/2026).
 - `C`: consultas atribuidas, limitadas por la capacidad.
 - `P_t`: precio del taller [POR CONFIRMAR con su historial]; ilustrativo: 290.
 - `N_t`: participantes por edición.
 - `E`: ediciones al mes.
-- `f`: comisión. Mercado Pago ≈ (3.99 % + $4) × 1.16 [VERIFICAR]; ≈ $18 por cada $290 y ≈ $32 por cada $600. Transferencia ≈ 0.
+- `f`: comisión. Mercado Pago ≈ (3.99 % + $4) × 1.16 [VERIFICAR]; ≈ $18 por cada $290 y ≈ $28 por cada $500. Transferencia ≈ 0.
 - Se supone que la mitad paga con link.
 
 **Fórmulas:**
@@ -101,11 +101,11 @@ El precio de cartel de $700 funciona como **ancla**: "precio regular $700, preve
 |---|---|---|---|
 | Consultas `C` | 2 | 5 | 10 |
 | Talleres (`E` × `N_t`) | 1 × 8 | 1 × 12 | 2 × 15 |
-| Facturación | 1,200 + 2,320 = **3,520** | 3,000 + 3,480 = **6,480** | 6,000 + 8,700 = **14,700** |
-| Comisiones (50 % con link) | ≈ 104 | ≈ 189 | ≈ 432 |
-| **Margen** | **≈ 3,416** | **≈ 6,291** | **≈ 14,268** |
+| Facturación | 1,000 + 2,320 = **3,320** | 2,500 + 3,480 = **5,980** | 5,000 + 8,700 = **13,700** |
+| Comisiones (50 % con link) | ≈ 100 | ≈ 178 | ≈ 410 |
+| **Margen** | **≈ 3,220** | **≈ 5,802** | **≈ 13,290** |
 | Horas del mes (equipo ~45 h/sem × 4 + Angélica ~7.5 × 4) | 210 | 210 | 210 |
-| Margen por hora del sistema | ≈ 16 | ≈ 30 | ≈ 68 |
+| Margen por hora del sistema | ≈ 15 | ≈ 28 | ≈ 63 |
 
 **Cómo leer esta tabla:**
 - Son escenarios de planificación, no pronósticos.

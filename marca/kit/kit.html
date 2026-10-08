@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><link href="fonts/fonts.css" rel="stylesheet">
+<style>
+:root{--g:#7B1E3A;--r:#D2323C;--h:#F5EFE6;--c:#222;--rosa:#E8A5B5}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Inter;background:#999;display:flex;flex-direction:column;gap:40px;padding:40px;align-items:flex-start}
+.p{position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;flex:none}
+.dark{background:var(--g);color:var(--h)}
+.light{background:var(--h);color:var(--g)}
+.word{font:800 1em/1 Montserrat;letter-spacing:.06em}
+.sub{font:600 1em Montserrat;letter-spacing:.3em;text-transform:uppercase;color:var(--rosa)}
+.deco{position:absolute;inset:0;pointer-events:none}
+</style></head><body>
+
+<!-- 1. Foto de perfil con nombre (1080×1080; se recorta en círculo) -->
+<div id="perfil" class="p dark" style="width:1080px;height:1080px">
+ <svg width="560" height="154" viewBox="0 0 620 170" fill="none"><path d="M40 40 Q310 250 580 40" stroke="#E8A5B5" stroke-width="14" stroke-linecap="round"/><circle cx="40" cy="40" r="22" fill="#F5EFE6"/><circle cx="580" cy="40" r="22" fill="#F5EFE6"/><path d="M150 70 Q310 170 470 70" stroke="#D2323C" stroke-width="6" stroke-linecap="round" opacity=".9"/></svg>
+ <div class="word" style="font-size:150px;margin-top:20px">HAMACA</div>
+ <div class="sub" style="font-size:30px;margin-top:18px">Fisioterapia</div>
+</div>
+
+<!-- 2. Símbolo solo (para tamaños muy pequeños) -->
+<div id="simbolo" class="p dark" style="width:1080px;height:1080px">
+ <svg width="780" height="214" viewBox="0 0 620 170" fill="none"><path d="M40 40 Q310 250 580 40" stroke="#E8A5B5" stroke-width="16" stroke-linecap="round"/><circle cx="40" cy="40" r="24" fill="#F5EFE6"/><circle cx="580" cy="40" r="24" fill="#F5EFE6"/><path d="M150 70 Q310 170 470 70" stroke="#D2323C" stroke-width="8" stroke-linecap="round" opacity=".9"/></svg>
+</div>
+
+<!-- 3. Banner de YouTube (2560×1440; zona segura central 1546×423) -->
+<div id="youtube" class="p dark" style="width:2560px;height:1440px">
+ <svg class="deco" viewBox="0 0 2560 1440" fill="none"><path d="M-100 300 Q1280 2000 2660 300" stroke="#E8A5B5" stroke-width="4" opacity=".25"/><path d="M-100 240 Q1280 2200 2660 240" stroke="#E8A5B5" stroke-width="3" opacity=".15"/><path d="M-100 360 Q1280 1800 2660 360" stroke="#D2323C" stroke-width="3" opacity=".3"/></svg>
+ <div style="display:flex;align-items:center;gap:60px;position:relative">
+  <svg width="300" height="82" viewBox="0 0 620 170" fill="none"><path d="M40 40 Q310 250 580 40" stroke="#E8A5B5" stroke-width="16" stroke-linecap="round"/><circle cx="40" cy="40" r="24" fill="#F5EFE6"/><circle cx="580" cy="40" r="24" fill="#F5EFE6"/><path d="M150 70 Q310 170 470 70" stroke="#D2323C" stroke-width="8" stroke-linecap="round" opacity=".9"/></svg>
+  <div>
+   <div class="word" style="font-size:150px">HAMACA</div>
+   <div class="sub" style="font-size:34px;margin-top:14px">Fisioterapia de la mujer</div>
+  </div>
+ </div>
+ <div style="position:relative;margin-top:44px;font:600 40px Montserrat;color:var(--h)">Nuevo video cada semana · con Angélica García</div>
+</div>
+
+<!-- 4. Portada de la página de Facebook (1640×624) -->
+<div id="facebook" class="p dark" style="width:1640px;height:624px">
+ <svg class="deco" viewBox="0 0 1640 624" fill="none"><path d="M-60 380 Q820 820 1700 380" stroke="#E8A5B5" stroke-width="3" opacity=".3"/><path d="M-60 420 Q820 760 1700 420" stroke="#D2323C" stroke-width="3" opacity=".35"/></svg>
+ <div class="word" style="font-size:110px;position:relative">HAMACA</div>
+ <div class="sub" style="font-size:26px;margin-top:12px;position:relative">Fisioterapia de la mujer</div>
+ <div style="position:relative;margin-top:34px;font:700 40px Montserrat">La fisioterapia que <span style="color:var(--rosa)">sostiene</span> a las mujeres</div>
+ <div style="position:relative;margin-top:18px;font:500 26px Inter;color:var(--rosa)">Consulta presencial en CORE Oaxaca · en línea para toda Latinoamérica</div>
+</div>
+
+<!-- 5. Portadas de historias destacadas de Instagram (1080×1080; se recortan en círculo) -->
+<div id="d1" class="p light hl" style="width:1080px;height:1080px">
+ <svg width="560" height="560" viewBox="0 0 100 100" fill="none" stroke="#7B1E3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M50 12 L59 38 L86 38 L64 54 L72 80 L50 64 L28 80 L36 54 L14 38 L41 38 Z"/></svg>
+</div>
+<div id="d2" class="p light hl" style="width:1080px;height:1080px">
+ <svg width="560" height="560" viewBox="0 0 100 100" fill="none" stroke="#7B1E3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><circle cx="45" cy="13" r="8"/><path d="M50 24 C54 30 54 36 52 42 C76 46 82 74 52 80 L49 93"/><path d="M40 24 C33 44 33 72 40 93"/><path d="M58 60 C60 56 66 56 66 61 C66 66 60 69 58 71 C56 69 50 66 50 61 C50 56 56 56 58 60 Z" stroke-width="3.5"/></svg>
+</div>
+<div id="d3" class="p light hl" style="width:1080px;height:1080px">
+ <svg width="560" height="560" viewBox="0 0 100 100" fill="none" stroke="#7B1E3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="38" r="12"/><path d="M14 52 C24 76 76 76 86 52"/><path d="M30 56 C40 64 60 64 70 56"/></svg>
+</div>
+<div id="d4" class="p light hl" style="width:1080px;height:1080px">
+ <svg width="560" height="560" viewBox="0 0 100 100" fill="none" stroke="#7B1E3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M50 12 C50 12 24 44 24 62 C24 77 36 88 50 88 C64 88 76 77 76 62 C76 44 50 12 50 12 Z"/><path d="M38 64 C38 72 44 76 50 76"/></svg>
+</div>
+<div id="d5" class="p light hl" style="width:1080px;height:1080px">
+ <svg width="620" height="170" viewBox="0 0 620 170" fill="none"><path d="M40 40 Q310 250 580 40" stroke="#7B1E3A" stroke-width="18" stroke-linecap="round"/><circle cx="40" cy="40" r="26" fill="#7B1E3A"/><circle cx="580" cy="40" r="26" fill="#7B1E3A"/><path d="M150 70 Q310 170 470 70" stroke="#D2323C" stroke-width="9" stroke-linecap="round"/></svg>
+</div>
+<div id="d6" class="p light hl" style="width:1080px;height:1080px">
+ <svg width="560" height="560" viewBox="0 0 100 100" fill="none" stroke="#7B1E3A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><circle cx="30" cy="34" r="9"/><circle cx="70" cy="34" r="9"/><circle cx="50" cy="28" r="10"/><path d="M14 70 C14 56 46 56 46 70 M54 70 C54 56 86 56 86 70 M30 74 C30 54 70 54 70 74"/></svg>
+</div>
+
+</body></html>
